@@ -1,0 +1,74 @@
+# =========================
+# Python
+# =========================
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# =========================
+# Environment / Secrets
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# IDE / OS
+# =========================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# =========================
+# Local Models
+# =========================
+models/*
+
+# =========================
+# Company Dataset
+# =========================
+data/company_dataset/raw/*
+data/company_dataset/processed/*
+data/company_dataset/retrieval/*
+
+# =========================
+# IDX Raw Dataset
+# =========================
+data/idx_financial/raw/*
+
+# =========================
+# IDX Intermediate Data
+# =========================
+data/idx_financial/inventory/*
+data/idx_financial/discovery/*
+data/idx_financial/period_mapping/*
+data/idx_financial/currency_scale/*
+data/idx_financial/current_metrics/*
+
+# =========================
+# Generated / Large Artifacts
+# =========================
+*.npy
+
+# =========================
+# Cache / Runtime
+# =========================
+data/outputs/llm_cache.json
+chroma_db/
+*.log
+
+# =========================
+# Temporary Files
+# =========================
+*.tmp
+*.temp
+~$*

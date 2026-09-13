@@ -1,0 +1,1803 @@
+[
+  {
+    "company": "AdBrite",
+    "funding": "$35M",
+    "category": "Total funding from $25M - $50M",
+    "investors": [
+      "Sequoia Capital",
+      "Artis Capital Management"
+    ],
+    "failure_reason": "Despite claiming to be the largest independent ad exchange and at one time being seen as a serious competitor to Google Adwords, it seems that they were unable to make enough money or sell the company to potential buyers.",
+    "prompt": "Why couldn't AdBrite compete with Google AdWords?",
+    "completion": "AdBrite failed to compete with Google AdWords despite advantages: 1) Although they claimed to be the largest independent ad exchange, they couldn't generate sufficient revenue, 2) Despite being seen as a serious competitor to Google AdWords, they couldn't achieve profitability, 3) No potential buyers were willing to acquire the company, suggesting fundamental business model issues, 4) Google's dominance in search advertising made it extremely difficult for independent ad exchanges to achieve sustainable economics."
+  },
+  {
+    "company": "Aereo",
+    "funding": "$97M",
+    "category": "Total funding from $75M - $100M",
+    "investors": [
+      "FirstMark Capital",
+      "Highland Capital Partners"
+    ],
+    "failure_reason": "Inside the infrastructure that drove its online service, it assigned every Aereo user a mini broadcast TV antenna, and it used this to argue that its service was no different than sticking a pair of bunny ears on your television. That way, Aereo could avoid paying retransmission fees for broadcasters' content. But broadcasters never bought this argument, and when it came down to it, neither did the US Supreme Court.",
+    "prompt": "Why did Aereo shut down?",
+    "completion": "Aereo shut down after losing a crucial legal battle over its business model. The company tried to circumvent paying broadcaster retransmission fees by assigning each user a mini TV antenna and arguing this was equivalent to personal antenna use. However, broadcasters sued, and the US Supreme Court ultimately ruled against Aereo's argument, making their core business model illegal and forcing the shutdown."
+  },
+  {
+    "company": "Agillion",
+    "funding": "$33.5M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "Matrix Partners",
+      "Nexus Venture Partners"
+    ],
+    "failure_reason": "Agillion, which offered a Web service that helped businesses maintain vital information about their customers, filed for bankruptcy in July 2001 with about $100 in the bank. Just 15 months before, Agillion had $30 million in the bank. Between the product launch date, Feb. 23, 2000, and the bankruptcy filing more than a year later, Agillion had only a 'few dozen subscribers' to its Web-based service. 'Their revenue was so inconsequential that management never recorded a single dollar in revenue in their internal bookkeeping,' the suit claims. Despite the poor performance, 'Agillion's management increased their wasteful spending.'",
+    "prompt": "How did Agillion burn through $30M so quickly?",
+    "completion": "Agillion burned through $30M in just 15 months due to: 1) Extremely poor customer adoption with only 'a few dozen subscribers' to their web service, 2) Revenue was so low that management never even recorded any revenue in their books, 3) Despite terrible performance, management continued wasteful spending rather than cutting costs, 4) Complete disconnect between spending and revenue generation, going from $30M to $100 in the bank while achieving essentially zero commercial success."
+  },
+  {
+    "company": "Airlift",
+    "funding": "$109M",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "First Round Capital",
+      "ACE Capital",
+      "Quiet Capital"
+    ],
+    "failure_reason": "Airlift founder Usman Gul confirmed that the startup is shutting down. 'As of July, 2022, Airlift was about three months away from operating profitability and about 6-9 months from company-level profitability,' he wrote. It was also finalizing a new funding round when suddenly things fell apart. 'Last week, amidst rapidly deteriorating conditions in the global economy, several participants shared uncertainty in wire schedules and their disbursements – this ultimately meant that the company's capital requirements would not be met. Ultimately, the round was unsuccessful.'",
+    "prompt": "How did Airlift fail when they were close to profitability?",
+    "completion": "Airlift failed despite being close to profitability due to a funding round collapse: 1) The company was only 3 months away from operating profitability and 6-9 months from overall profitability, 2) They were finalizing a new funding round when global economic conditions deteriorated rapidly, 3) Multiple investors became uncertain about their commitments and delayed wire transfers, 4) The funding round ultimately failed, leaving the company without the capital needed to reach profitability, demonstrating how external market conditions can kill even promising startups."
+  },
+  {
+    "company": "Aiwujiwu",
+    "funding": "$305M",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "GGV Capital",
+      "Temasek Holdings",
+      "Gaorong Capital"
+    ],
+    "failure_reason": "While no official statement has been made, the former unicorn's website appears to be inactive. Aiwujiwu, the Chinese online property listings platform and 'unicorn,' had ceased regular operations as of the end of January 2019. The company is in a liquidation phase, and services are no longer available on its website and app.",
+    "prompt": "What caused Chinese property unicorn Aiwujiwu to fail?",
+    "completion": "Aiwujiwu, a Chinese property listings unicorn, quietly shut down: 1) The company ceased operations without making an official statement, 2) Their website and app became inactive, indicating complete business shutdown, 3) The company entered liquidation phase by early 2019, 4) Despite unicorn status and backing from major investors like Temasek, the competitive Chinese property tech market proved unsustainable for the platform."
+  },
+  {
+    "company": "Akimbo",
+    "funding": "$54.7M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "Zone Ventures",
+      "Draper Fisher Jurvetson"
+    ],
+    "failure_reason": "The company had raised $4 million earlier this year from existing investors, but Chantel said the company was looking to raise $8 to 10 million to become cash positive with its new white-label strategy. Unfortunately, 'there wasn't enough runway to execute the plan,' he said.",
+    "prompt": "How did insufficient runway kill Akimbo's white-label pivot?",
+    "completion": "Akimbo was killed by insufficient runway to execute their pivot: 1) The video-on-demand company raised $4M earlier in the year for a new white-label strategy, 2) They needed $8-10M more to become cash positive with the new approach, 3) Despite having a plan to reach profitability, they didn't have enough runway to execute it, 4) This shows how even viable pivot strategies can fail if companies can't raise enough capital to bridge to profitability."
+  },
+  {
+    "company": "Anki",
+    "funding": "$205M",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "Andreessen Horowitz",
+      "Index Ventures",
+      "Two Sigma Ventures"
+    ],
+    "failure_reason": "It is with a heavy heart to inform you that Anki has ceased product development and we are no longer manufacturing robots. To our partners and customers, thank you for all your support and joining us on this journey to bring robotics and AI out of research labs and into your homes.",
+    "prompt": "Why did robotics company Anki shut down?",
+    "completion": "Anki shut down despite pioneering consumer robotics: 1) The company ceased all product development and robot manufacturing, 2) Despite $205M in funding from top VCs like Andreessen Horowitz, they couldn't achieve sustainable business model, 3) Their mission to bring robotics and AI from research labs to homes proved commercially challenging, 4) The consumer robotics market wasn't ready for mass adoption, making their innovative products financially unsustainable."
+  },
+  {
+    "company": "Argo AI",
+    "funding": "$500M",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "Ford Autonomous Vehicles",
+      "Volkswagen Group"
+    ],
+    "failure_reason": "Ford said in its third-quarter earnings report that it made a strategic decision to shift its resources to developing advanced driver assistance systems, and not autonomous vehicle technology that can be applied to robotaxis. That decision appears to have been fueled by Argo's inability to attract new investors. Ford CEO Jim Farley acknowledged that the company anticipated being able to bring autonomous vehicle technology broadly to market by 2021.",
+    "prompt": "What led to Argo AI's shutdown?",
+    "completion": "Argo AI shut down because: 1) Parent company Ford shifted strategy away from robotaxis to focus on advanced driver assistance systems instead, 2) The company was unable to attract new investors beyond Ford and Volkswagen, 3) Failed to meet the 2021 timeline for bringing autonomous vehicle technology to market, 4) Ford decided the autonomous vehicle market would take longer to mature than initially anticipated."
+  },
+  {
+    "company": "Arrivo",
+    "funding": "$1B",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "Plug and Play Ventures",
+      "Trucks VC"
+    ],
+    "failure_reason": "Futuristic transportation startup Arrivo shut down its operations this week. All of the company's 30 or so employees were furloughed in late November, with about half being completely laid off at the end of that month. Now, the Los Angeles startup is shutting down because it hasn't been able to secure new funding, these people say.",
+    "prompt": "What happened to hyperloop startup Arrivo?",
+    "completion": "Arrivo, a hyperloop transportation startup, shut down due to funding difficulties: 1) The company furloughed all ~30 employees in late November, then laid off half permanently, 2) Despite ambitious plans for futuristic transportation technology, they couldn't secure additional funding, 3) The hyperloop concept proved too early-stage and capital-intensive for sustainable development, 4) Even with $1B in reported funding commitments, the company couldn't bridge to commercial viability."
+  },
+  {
+    "company": "Asempra Technologies",
+    "funding": "$29M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "US Venture Partners",
+      "Polaris Partners"
+    ],
+    "failure_reason": "Why did Asempra cease trading – which, by the way, happened so fast its PR agency knew nothing of the asset sale to Bakbone? The probability is that it ran into cash flow problems in the recession and the investing VCaps were reluctant to go through another funding round. Three million dollars does not look like anywhere a worthwhile exit strategy for the three VC firms, not with $29m in the Asempra can, but it is something to pull out of the failed venture.",
+    "prompt": "How did Asempra Technologies fail so suddenly?",
+    "completion": "Asempra Technologies failed suddenly due to: 1) Severe cash flow problems during the economic recession, 2) Venture capital investors were reluctant to fund another round in the difficult market, 3) The asset sale to Bakbone for only $3M was a desperate move that caught even their PR agency off guard, 4) The fire sale price represented a massive loss for VCs who had invested $29M, showing how quickly enterprise software companies can collapse when funding dries up."
+  },
+  {
+    "company": "Aura Financial",
+    "funding": "$82M + $264M of debt",
+    "category": "Total funding from $75M - $100M",
+    "investors": [
+      "FirstMark Capital",
+      "Varadero Capital",
+      "Revolution Ventures"
+    ],
+    "failure_reason": "Hit hard by the pandemic-induced recession, the consumer lender Aura Financial has suspended its operations. 'When the pandemic first hit, Aura was on the verge of closing new financing on its final march to profitability. However, suddenly, all capital dried up as the uncertainty of how our low-income, mostly Latino customer base would recover from a pandemic that disproportionately impacted their jobs, health, and finances intimidated investors.'",
+    "prompt": "Why did consumer lender Aura Financial suspend operations?",
+    "completion": "Aura Financial was devastated by COVID-19's impact on their customer base: 1) The pandemic hit their low-income, mostly Latino customers particularly hard with job losses and health impacts, 2) Investor confidence disappeared due to uncertainty about customer recovery, 3) Despite being close to profitability and finalizing new financing, capital markets dried up completely, 4) The company's focus on underserved communities made them especially vulnerable to economic downturns."
+  },
+    {
+    "company": "Automatic",
+    "funding": "$24M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "Y Combinator",
+      "Founders Fund",
+      "Andreessen Horowitz"
+    ],
+    "failure_reason": "'Just like many other companies in the United States, the COVID-19 pandemic has adversely impacted our business,' the company said in a statement. 'With fewer consumers purchasing and leasing vehicles and drivers on the road, we unfortunately do not see a path forward for our business. These are unprecedented times, and with so much uncertainty ahead, we have made the difficult decision to discontinue the Automatic connected car product, service and platform.'",
+    "prompt": "How did COVID-19 kill connected car startup Automatic?",
+    "completion": "COVID-19 destroyed Automatic's connected car business: 1) Fewer people were purchasing and leasing vehicles during lockdowns, reducing their target market, 2) Reduced driving meant less demand for their car connectivity products, 3) The pandemic created too much uncertainty for a business dependent on car usage patterns, 4) Despite backing from top VCs like Andreessen Horowitz, the sudden shift in transportation behavior made their business model unsustainable."
+  },
+  {
+    "company": "Beenz.com",
+    "funding": "$73.8M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "Gefinor Ventures",
+      "Apax Partners"
+    ],
+    "failure_reason": "After the Internet bubble burst, e-currency companies tried to evolve by concentrating on business customers, but the collapse of a high-profile trailblazer such as Beenz shows that the Old Economy credit card companies have probably won the online shopping battle. Experts believe that online currency sites such as Beenz were overtaken as a way of shopping online by credit cards, which had the advantage of being virtually universally accepted both on and offline.",
+    "prompt": "How did credit cards defeat digital currency pioneer Beenz.com?",
+    "completion": "Beenz.com was defeated by the universal acceptance of credit cards: 1) The digital currency company tried to create an alternative to traditional payment methods, 2) After the dot-com bubble burst, they pivoted to focus on business customers, 3) Credit cards had the advantage of universal acceptance both online and offline, 4) Traditional 'Old Economy' payment companies ultimately won the online shopping battle because consumers preferred familiar, widely accepted payment methods over new digital currencies."
+  },
+  {
+    "company": "Beequick",
+    "funding": "$110M",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "Sequoia Capital China",
+      "Eastern Bell Capital",
+      "Tiantu Capital"
+    ],
+    "failure_reason": "According to media reports, Beequick has now moved out of its original office space, and the app has been removed from major app stores such as Apple and Xiaomi. It is suspected to be out of service. At the same time, the owner of Beequick has also received a formal notice of suspension. This community convenience store startup, which once set off the Online-to-Offline wave, has ended.",
+    "prompt": "What happened to Chinese O2O startup Beequick?",
+    "completion": "Beequick, a Chinese O2O convenience store startup, shut down completely: 1) The company moved out of its offices and apps were removed from major app stores like Apple and Xiaomi, 2) The company owner received formal suspension notices, indicating regulatory issues, 3) Despite being an early pioneer in the Online-to-Offline wave and raising $110M from Sequoia China, the business model proved unsustainable, 4) The shutdown marked the end of one of China's early O2O experiments."
+  },
+  {
+    "company": "Better Place",
+    "funding": "$675.3M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "VantagePoint Capital Partners",
+      "Lend Lease Ventures"
+    ],
+    "failure_reason": "The bet was risky because it required large geographies — indeed, entire nations — to adopt the technology in order for it to scale successfully. The company chose small countries like Israel and Denmark to test its model, but the company's upfront costs kept mounting, and it kept delaying debuts. Also, a number of competing electric car efforts, including the venture by new company Tesla but also by the Big 3 and other manufacturers, kept the industry from adopting any one standard.",
+    "prompt": "What caused Better Place's failure?",
+    "completion": "Better Place failed because: 1) Their business model required entire nations to adopt their electric car battery-swapping technology to achieve scale, 2) High upfront infrastructure costs that kept mounting while debuts were repeatedly delayed, 3) Competition from Tesla and major automakers prevented industry standardization around their technology, 4) The small test markets (Israel and Denmark) were insufficient to prove scalability, making the $675M investment unsustainable."
+  },
+  {
+    "company": "BeyondMinds",
+    "funding": "$15M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "NVIDIA Inception",
+      "Grove Ventures"
+    ],
+    "failure_reason": "Israeli AI startup BeyondMinds notified its 65 employees on Sunday that the company is shutting down and that they will be laid off. The company's investors urged CEO and co-founder Rotem Alaluf to sell the company following the downturn in the tech market that started last year, with the board of directors not believing that the company would be able to complete another funding round and continue to grow. However, Alaluf didn't agree with the board and went on to leave his position as CEO and found a new company with other staff from BeyondMinds.",
+    "prompt": "What board conflicts led to BeyondMinds' shutdown?",
+    "completion": "BeyondMinds was shut down due to conflicts between the CEO and board: 1) Investors urged CEO Rotem Alaluf to sell the company during the tech market downturn, 2) The board didn't believe they could complete another funding round and continue growing, 3) Alaluf disagreed with the board's assessment and left to start a new company, 4) The strategic disagreement between leadership and investors led to the AI startup's dissolution despite having viable technology."
+  },
+  {
+    "company": "Bling Nation",
+    "funding": "$28M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "Meck and Camp Ventures",
+      "Lightspeed Venture Partners"
+    ],
+    "failure_reason": "Executives at several banks said that they liked Bling Nation's business strategy but its service ultimately suffered from a lack of merchant adoption and consumers' unwillingness to switch from bank-issued debit cards.",
+    "prompt": "Why couldn't Bling Nation's mobile payment system gain traction?",
+    "completion": "Bling Nation failed to gain traction due to adoption challenges: 1) Despite banks liking their business strategy, merchants were reluctant to adopt their mobile payment system, 2) Consumers showed unwillingness to switch from familiar bank-issued debit cards, 3) The two-sided marketplace problem - needed both merchants and consumers to adopt simultaneously, 4) Incumbent payment methods (debit cards) were too entrenched, making it difficult for alternative payment systems to break through despite venture backing."
+  },
+  {
+    "company": "Brodmann17",
+    "funding": "$16M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "Sony Innovation Fund",
+      "Samsung NEXT",
+      "Lool Ventures"
+    ],
+    "failure_reason": "Brodmann17 applied its technology to blind-spot wing cameras, surround and rear cameras, video telematics and even two wheelers. 'The demand in the market is far more diversified than people think,' he said. 'We decided to take the road not taken by many other companies in the ecosystem. We just needed more time.' The startup did attract investors during its lifetime. But the company struggled to get new funding. Even though the team was 'very lean,' with fewer than 30 people, Pinhas said it was impossible to continue without support from private and corporate venture capital firms.",
+    "prompt": "Why couldn't computer vision startup Brodmann17 secure follow-on funding?",
+    "completion": "Brodmann17 couldn't secure follow-on funding despite lean operations: 1) The computer vision startup applied their technology to diverse automotive applications, 2) Despite having fewer than 30 employees and being 'very lean,' they couldn't raise additional capital, 3) CEO Adi Pinhas said they 'just needed more time' but investors weren't willing to provide it, 4) Even backing from Sony and Samsung wasn't enough to secure follow-on funding in a challenging market for automotive AI startups."
+  },
+  {
+    "company": "BusRadio",
+    "funding": "$20.1M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "Charles River Ventures",
+      "Sigma Partners"
+    ],
+    "failure_reason": "The FCC study found that BusRadio, the only commercial broadcaster on school buses, had disguised commercial content as editorial and exposed kids to more commercial content than the four-minutes-per-hour limit it promised parents. 'What happened was they were unable to get into schools because of parental protests at the local level. Without a really large audience, they were unable to attract significant advertisers.'",
+    "prompt": "How did regulatory violations and parental opposition kill BusRadio?",
+    "completion": "BusRadio was killed by regulatory violations and parental backlash: 1) The FCC found they disguised commercial content as editorial and exceeded promised advertising limits, 2) Parental protests at the local level prevented them from getting into schools, 3) Without access to schools, they couldn't build the large audience needed to attract advertisers, 4) The business model depended on scale, but regulatory violations and parent opposition prevented them from achieving the necessary reach."
+  },
+  {
+    "company": "Butler",
+    "funding": "$51M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "Kraft Food Groups",
+      "Shamrock Holdings"
+    ],
+    "failure_reason": "Butler's downfall is a cautionary tale both of the opportunities and challenges that exist in the world of on-demand startups. There may be clear gaps in the market for services that appear in theory like easy sailing. Yet they can inevitably be buffeted by economic, social and, in recent times, extreme public health headwinds. The company said it laid off about 100 employees in the process of winding down.",
+    "prompt": "Why did on-demand room service startup Butler fail?",
+    "completion": "Butler failed due to on-demand startup challenges: 1) Despite identifying clear market gaps in room service delivery, execution proved more difficult than anticipated, 2) The business was vulnerable to economic, social, and public health disruptions (likely COVID-19), 3) On-demand services require high operational complexity and capital intensity, 4) The company laid off about 100 employees, showing significant scale before the failure, suggesting unit economics rather than market size was the issue."
+  },
+  {
+    "company": "BuyWithMe",
+    "funding": "$21.5M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "Bain Capital Ventures",
+      "Matrix Partners"
+    ],
+    "failure_reason": "'The capital markets willingness to invest in *daily deal* businesses has dried up. Our game plan was to raise a significant amount of capital to push this comprehensive service offering deeply into markets and, as a result, change the basis of competition in the daily deal space. We were a little late.'",
+    "prompt": "How did market timing kill daily deals startup BuyWithMe?",
+    "completion": "BuyWithMe was killed by poor timing in the daily deals market: 1) Capital markets stopped investing in daily deal businesses just as they needed more funding, 2) Their strategy required significant capital to push their service deeply into markets and change competitive dynamics, 3) They admitted being 'a little late' to execute their plan, 4) The daily deals space collapsed before they could raise the capital needed to differentiate from competitors like Groupon."
+  },
+  {
+    "company": "COPAN Systems",
+    "funding": "$108.4M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "Globespan Capital Partners",
+      "Austin Ventures"
+    ],
+    "failure_reason": "The COPAN product was well differentiated. The weakness was their not understanding, focusing and exploiting its sweet spot. A consequence of an incomplete or erroneous market understanding and a sole reliance on the internal body of experience and knowledge.",
+    "prompt": "What strategic mistakes led to COPAN Systems' failure?",
+    "completion": "COPAN Systems failed due to strategic market misunderstanding: 1) Despite having a well-differentiated storage product, they failed to identify and focus on their ideal market segment, 2) Management relied too heavily on internal knowledge rather than external market research, 3) They had an incomplete or incorrect understanding of their target market, 4) The inability to find and exploit their 'sweet spot' prevented them from competing effectively despite having superior technology and over $100M in funding."
+  },
+  {
+    "company": "Calxeda",
+    "funding": "$103M",
+    "category": "Total funding from $100M+",
+    "investors": [
+      "Battery Ventures",
+      "Flybridge Capital Partners"
+    ],
+    "failure_reason": "ARM server chip designer Calxeda has shut down as one of its executives told The Register: 'We simply ran out of money.'",
+    "prompt": "Why did ARM server chip company Calxeda run out of money?",
+    "completion": "Calxeda ran out of money despite raising $103M for ARM server chips: 1) The company was developing ARM-based server processors, a market that was very early and uncertain, 2) Server markets were dominated by x86 processors, making ARM adoption challenging, 3) Long development cycles for server chips required sustained funding that they couldn't maintain, 4) Despite the technical merit of ARM servers (which later became successful), they were too early to market and couldn't sustain operations until market adoption occurred."
+  },
+  {
+    "company": "Cana Technology",
+    "funding": "$30M",
+    "category": "Total funding from $25M - $50M",
+    "investors": [
+      "The Production Board"
+    ],
+    "failure_reason": "Cana, the company which was building an appliance that they claimed could create and customize virtually any beverage, shut down last week. According to numerous Linkedin posts from previous employees, the company could not secure funding and laid off all of its employees last week. Cana, which had raised $30 million in January last year, promised to have the product ready to ship sometime this year. But despite having a working prototype and brand partners in place, Cana could not raise the 'funding necessary to build a production line for manufacturing and shipping devices.'",
+    "prompt": "Why did beverage-making appliance company Cana fail?",
+    "completion": "Cana failed due to manufacturing funding challenges: 1) Despite having a working prototype that could create virtually any beverage, they couldn't raise funds for production scaling, 2) The company had secured brand partnerships but lacked capital for manufacturing and shipping infrastructure, 3) The ambitious technology worked in prototype but required significant investment to commercialize, 4) Hardware startups face high capital requirements for production that proved insurmountable despite the innovative technology."
+  },
+  {
+    "company": "CareSync",
+    "funding": "$22.5M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "Greycroft Partners",
+      "Merck Global Health Innovation Fund"
+    ],
+    "failure_reason": "Health care technology firm CareSync closed its doors on Thursday despite previously announced plans to hire 350 people by the end of 2017 and expand its Tampa headquarters. A manager with the company, who spoke on the condition of anonymity, told the Tampa Bay Business Journal that there had been several rounds of layoffs in recent weeks, but that a plan to sell the company gave remaining employees hope their jobs would remain intact. The employee said a deal fell through and the company had been 'bleeding money' the past several weeks.",
+    "prompt": "How did a failed acquisition doom CareSync?",
+    "completion": "CareSync was doomed when their acquisition deal fell through: 1) Despite plans to hire 350 people and expand headquarters, the healthcare tech company was actually 'bleeding money,' 2) Multiple rounds of layoffs preceded the final closure, 3) Employees hoped an acquisition would save their jobs, but the deal ultimately failed, 4) The failed sale left the company with no viable path forward, showing how acquisition talks can be a last resort for struggling companies rather than a sign of success."
+  },
+  {
+    "company": "Cereva Networks",
+    "funding": "$109.5M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "Oak Investment Partners",
+      "North Bridge Venture Partners",
+      "Intel Capital",
+      "Goldman Sachs"
+    ],
+    "failure_reason": "A victim of swiftly shrinking corporate IT budgets and a sharp drop in demand for the startup's large-scale enterprise storage systems, the Marlborough, MA.-based company last week abruptly shut down and laid off 140 employees.",
+    "prompt": "How did the IT spending downturn kill Cereva Networks?",
+    "completion": "Cereva Networks was killed by corporate IT budget cuts: 1) Shrinking corporate IT budgets eliminated demand for their expensive enterprise storage systems, 2) The company was particularly vulnerable because they focused on large-scale, high-cost enterprise solutions, 3) When IT spending contracted sharply, enterprises delayed or canceled major storage purchases, 4) The abrupt shutdown and mass layoff of 140 employees shows how enterprise-focused startups can collapse quickly when corporate customers cut spending."
+  },
+  {
+    "company": "Chorus",
+    "funding": "$22M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "Emergence Capital Partners",
+      "Redpoint Ventures"
+    ],
+    "failure_reason": "Through the Beta and subsequent launch, we observed a number of fascinating things about the social motivation and accountability mechanics in Chorus, including the following very important observations: Teams are more likely to stick together and work toward their goals if they also meet in the real world; Teams are more likely to stick together and work toward their goals if there is an event-based deadline everybody on the team is working toward (a wedding, a marathon, etc.) Outside of these two cases, we were unable to reduce typical churn. If team members didn't meet regularly in the real world or weren't all working toward the same deadline-based event, we essentially observed traditional (high) churn after 4 – 8 weeks.",
+    "prompt": "What user behavior patterns led to Chorus's failure?",
+    "completion": "Chorus failed because their fitness app couldn't solve user retention outside specific conditions: 1) Teams only stayed engaged if they met regularly in real life, 2) Groups only maintained motivation when working toward specific deadline events like weddings or marathons, 3) Without real-world meetings or shared deadlines, they experienced traditional high churn after 4-8 weeks, 4) The social fitness model only worked in limited circumstances, making it impossible to scale to a broader user base with sustainable engagement."
+  },
+  {
+    "company": "Clim8",
+    "funding": "$20M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "Ecosummit",
+      "Crowdcube",
+      "7Percent"
+    ],
+    "failure_reason": "Citing 'dramatic changes' across the economic environment such as rising inflation, combined with a lack of appetite to invest in start-ups, Clim8 says it has been unable to secure further venture capital to continue operating. 'Over the last few months we have pursued a number of strategic options and had a range of good interest, however we have not been able to secure a positive outcome from any of these avenues,' writes Clim8 CEO and founder Duncan Grierson.",
+    "prompt": "How did economic conditions kill sustainable investment fintech Clim8?",
+    "completion": "Clim8 was killed by deteriorating economic conditions: 1) Rising inflation and dramatic economic changes reduced investor appetite for startups, 2) Despite pursuing multiple strategic options and receiving good interest, they couldn't secure funding, 3) The sustainable investment fintech couldn't close any deals despite investor interest, 4) Economic headwinds made it particularly difficult for ESG-focused fintechs to raise capital as investors became more risk-averse."
+  },
+  {
+    "company": "Color Labs",
+    "funding": "$41M",
+    "category": "Total funding from $25M - $50M",
+    "investors": [
+      "Bain Capital Ventures",
+      "Sequoia Capital"
+    ],
+    "failure_reason": "Nevertheless, the app simply failed to gain much traction with users, with reviewers often commenting that Color appeared to be an app trying to solve a problem that didn't seem to exist.",
+    "prompt": "Why did photo-sharing app Color Labs fail despite $41M from top VCs?",
+    "completion": "Color Labs failed because they solved a non-existent problem: 1) Despite massive funding from Sequoia Capital and Bain Capital Ventures, the photo-sharing app gained little user traction, 2) Users and reviewers felt the app was solving a problem that didn't exist, 3) The product-market fit was fundamentally flawed from the beginning, 4) Even top-tier VC backing couldn't overcome the basic issue that users didn't want or need their photo-sharing solution."
+  },
+  {
+    "company": "CommonBond",
+    "funding": "$1.3B",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "BMO Capital",
+      "Barclays Bank",
+      "Citibank",
+      "Goldman Sachs"
+    ],
+    "failure_reason": "Student loan lending company CommonBond quietly announced it will be 'winding down' its operations after its core businesses saw a hit during the pandemic. CommonBond cofounder and CEO David Klein said in a LinkedIn post that despite shifting to focus on residential solar panel loans, the impact of the student loan payment pause made it hard to continue the business.",
+    "prompt": "Why did CommonBond fail despite raising over $1 billion?",
+    "completion": "CommonBond failed despite raising $1.3B because: 1) The pandemic severely impacted their core student loan business, 2) Federal student loan payment pauses reduced demand for their refinancing services, 3) Their pivot to residential solar panel loans was unsuccessful in replacing lost revenue, 4) The combination of regulatory changes and market conditions made their original business model unsustainable."
+  },
+  {
+    "company": "Crazy Teacher",
+    "funding": "$65M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "Tencent Holdings",
+      "Kun Ling Capital",
+      "bioVENTURE"
+    ],
+    "failure_reason": "The crazy teacher app page displays the words 'Goodbye' and writes: 'The madness has ended, thank you for the past.'",
+    "prompt": "What happened to Chinese education app Crazy Teacher?",
+    "completion": "Crazy Teacher shut down with minimal explanation: 1) The Chinese education app simply displayed 'Goodbye' and 'The madness has ended,' 2) Despite backing from Tencent and $65M in funding, they provided no detailed shutdown reasoning, 3) The cryptic farewell message suggests either regulatory issues or strategic decision, 4) China's education technology sector faced significant regulatory changes that likely impacted their business model."
+  },
+  {
+    "company": "Cudoni",
+    "funding": "$18M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "Daily Mail and General Trust",
+      "Hunt Investment Group",
+      "eBay Ventures"
+    ],
+    "failure_reason": "Back in January, Cudoni, a startup based in London, added eBay to its roster of investors with a $9 million fundraise. Today, the company no longer exists. The company stated that the present economic situation has made it unfeasible to continue its operations. The move is noteworthy as the startup focused in a thriving category in retail — resale.",
+    "prompt": "How did economic conditions kill luxury resale platform Cudoni despite eBay backing?",
+    "completion": "Cudoni was killed by economic conditions despite strong backing: 1) The London-based luxury resale startup had just raised $9M from eBay in January, 2) Despite operating in the thriving resale category, economic conditions made operations unfeasible, 3) The rapid shutdown after recent eBay investment suggests severe market deterioration, 4) Even backing from established players like eBay and Daily Mail couldn't sustain the business during economic headwinds affecting luxury spending."
+  },
+  {
+    "company": "Cuil",
+    "funding": "$33M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "Tugboat Ventures",
+      "Greylock Partners"
+    ],
+    "failure_reason": "If it has failed, it's probably because the name is tough to spell and unintuitive to pronounce (every story about Cuil has to remind you that it's pronounced 'cool'), and because it couldn't live up to its hyperbolic claims of outperforming Google.",
+    "prompt": "Why did search engine Cuil fail to compete with Google?",
+    "completion": "Cuil failed to compete with Google due to: 1) Branding issues - the name was difficult to spell and pronounce, requiring constant explanation, 2) Overhyped marketing claims about outperforming Google that the product couldn't deliver on, 3) Inability to match Google's search quality and relevance despite significant funding, 4) Poor user experience compared to the established market leader, making it difficult to gain user adoption in the competitive search market."
+  },
+  {
+    "company": "DAQRI",
+    "funding": "$15M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "Tarsadia Investments"
+    ],
+    "failure_reason": "Daqri faced substantial challenges from competing headset makers, including Magic Leap and Microsoft, which were backed by more expansive war chests and institutional partnerships. While the headset company struggled to compete for enterprise customers, Daqri benefited from investor excitement surrounding the broader space. That is, until the investment climate for AR startups cooled. Daqri was, at one point, speaking with a large private-equity firm about financing ahead of a potential IPO, but as the technical realities facing other AR companies came to light, the firm backed out and the deal crumbled.",
+    "prompt": "How did competition and market cooling kill AR headset maker DAQRI?",
+    "completion": "DAQRI was killed by better-funded competition and AR market cooling: 1) They faced substantial challenges from Magic Leap and Microsoft, which had larger war chests and institutional partnerships, 2) The AR headset market became dominated by companies with more resources, 3) Investment climate for AR startups cooled as technical realities became apparent, 4) A potential private equity deal ahead of IPO fell through when the investor recognized the challenges facing AR companies, leaving DAQRI without necessary capital."
+  },
+  {
+    "company": "Daptiv",
+    "funding": "$24.7M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "Bay Partners",
+      "Kennet Partners"
+    ],
+    "failure_reason": "'Everyone thought there was an opportunity to take this company and jump it up, and operate it at a higher level and grow in a different direction,' Franklin said at the time. 'We made a good attempt at that and ultimately just weren't able to raise money around that opportunity.'",
+    "prompt": "Why couldn't project management software company Daptiv raise follow-on funding?",
+    "completion": "Daptiv failed to raise follow-on funding despite growth attempts: 1) Investors and management believed there was opportunity to scale the project management software company, 2) They attempted to operate at a higher level and grow in new directions, 3) Despite good intentions and efforts, they couldn't convince investors to fund the growth strategy, 4) The inability to raise additional capital forced the company into an asset sale, showing how execution risk can prevent even promising pivots."
+  },
+  {
+    "company": "Dash Navigation",
+    "funding": "$41M",
+    "category": "Total funding from $25M - $50M",
+    "investors": [
+      "Kleiner Perkins Caufield & Byers",
+      "Sequoia Capital"
+    ],
+    "failure_reason": "User adoption was slow, likely because the device carried a $600 price tag (later reduced to $399), but the service won praise from many reviewers, including Om. The navigation device was designed with true mobile web access and interactivity in mind, but sales were sluggish.",
+    "prompt": "Why did navigation device maker Dash Navigation fail despite good reviews?",
+    "completion": "Dash Navigation failed due to slow adoption despite good reviews: 1) The navigation device had a high price point of $600 (later reduced to $399) that deterred consumers, 2) Despite winning praise from reviewers for its mobile web access and interactivity features, sales remained sluggish, 3) User adoption was too slow to sustain the business, 4) The product was ahead of its time with features that smartphones would later provide, but the price and timing weren't right for mass market adoption."
+  },
+  {
+    "company": "Daylight",
+    "funding": "$20M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "Anthemis",
+      "Citibank",
+      "Restive Ventures"
+    ],
+    "failure_reason": "Daylight, an LGBTQ+ banking platform, is shutting down. Its operations will cease on June 30, according to embattled co-founder and CEO Rob Curtis. The announcement comes months after NY Magazine published an explosive feature on the neobank. NY Mag's piece detailed a lawsuit brought on by three former employees as well as alleged fabrications and inappropriate behavior on the part of Curtis.",
+    "prompt": "What internal scandals led to Daylight's shutdown?",
+    "completion": "Daylight was shut down due to internal scandals and leadership issues: 1) An explosive NY Magazine investigation detailed lawsuits from three former employees, 2) CEO Rob Curtis was accused of fabrications and inappropriate behavior, 3) The LGBTQ+ neobank's reputation was severely damaged by the exposé, 4) Internal governance problems and leadership scandals made the company unsustainable despite backing from Citibank and other investors."
+  },
+  {
+    "company": "Dealstruck",
+    "funding": "$70.1M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "Community Investment Management",
+      "Brevet Capital Management",
+      "Trinity Ventures",
+      "Giles Raymond"
+    ],
+    "failure_reason": "Dealstruck closed its doors after more than three years in business. It did not close because the customer base isn't there or due to a lack of demand for its lending products. It closed because a deal fell through.",
+    "prompt": "How did a failed deal lead to Dealstruck's sudden closure?",
+    "completion": "Dealstruck suddenly closed when a critical deal fell through: 1) The small business lending platform had strong customer demand and market need for their products, 2) After more than three years of successful operations, they weren't failing due to business fundamentals, 3) A single failed deal (likely acquisition or major funding) forced immediate closure, 4) This shows how even successful startups can be vulnerable to specific transaction failures, especially in capital-intensive businesses like lending."
+  },
+  {
+    "company": "DoubleTwist",
+    "funding": "$56.6M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "Institutional Venture Partners",
+      "Boston Millennia Partners"
+    ],
+    "failure_reason": "Two months later, DoubleTwist bowed to the inevitable. 'No one was surprised by this,' Williamson told the San Francisco Chronicle, 'but everyone was disappointed. We had a great product and a great team — we just didn't have the revenues.'",
+    "prompt": "Why did genomics company DoubleTwist fail despite having great product and team?",
+    "completion": "DoubleTwist failed because they couldn't generate revenue despite quality execution: 1) The genomics company had a great product and great team, 2) Despite product quality and team strength, they couldn't achieve sufficient revenues, 3) The failure wasn't surprising to insiders, suggesting ongoing revenue struggles, 4) This demonstrates how even excellent execution can fail if the market timing or business model doesn't generate adequate revenue streams."
+  },
+  {
+    "company": "Ecast",
+    "funding": "$66.8M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "Doll Capital Management",
+      "Crosslink Capital"
+    ],
+    "failure_reason": "The San Francisco-based technology firm's board of directors voted for an immediate shutdown after the company failed to raise enough capital to continue operating. 'We worked diligently for this not to happen,' said Ecast vice-president of network operations Scott Walker. 'We appreciate all the support from jukebox operators and the industry.'",
+    "prompt": "Why did digital jukebox company Ecast shut down immediately?",
+    "completion": "Ecast shut down immediately when they couldn't raise enough capital: 1) The digital jukebox technology company's board voted for immediate shutdown, 2) Despite working diligently to avoid closure, they failed to raise sufficient capital to continue operations, 3) They had support from jukebox operators and the industry but couldn't convert that into funding, 4) The immediate shutdown suggests they had exhausted all options and faced imminent financial crisis without new capital."
+  },
+  {
+    "company": "Edgix",
+    "funding": "$65M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "Battery Ventures",
+      "Venrock"
+    ],
+    "failure_reason": "'Companies that joined in during the last few years are primarily the ones dropping out. Many never had a sound business model to begin [with]. Edgix is one example. The company was basically a carbon copy of Cidera and other ISP caching solutions, with little new to offer. They basically launched a platform and went into business believing they would quickly generate revenue. Unfortunately for companies such as Edgix, once you continually say to investors, \"There is a market out there and we can own it,\" you start to believe it yourself.'",
+    "prompt": "How did lack of differentiation and overconfidence kill Edgix?",
+    "completion": "Edgix was killed by lack of differentiation and overconfidence: 1) The company was basically a carbon copy of existing ISP caching solutions with little new to offer, 2) They launched believing they would quickly generate revenue without a sound business model, 3) Management became overconfident by repeatedly telling investors they could own the market, 4) This self-delusion prevented them from recognizing their lack of competitive advantage and building real differentiation in a crowded market."
+  },
+  {
+    "company": "Entellium",
+    "funding": "$28M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "Ignition Partners",
+      "Sigma Partners"
+    ],
+    "failure_reason": "Just because you run a private company that does not have to file quarterly financial statements with the SEC does not make it okay to cook your books. The CEO and CFO of Seattle-based CRM firm Entellium found that out the hard way. They were arrested by the FBI earlier this week for inflating their revenues and then lying to their board about it. The company appears to be toast.",
+    "prompt": "What criminal activities destroyed Entellium?",
+    "completion": "Entellium was destroyed by financial fraud: 1) The CEO and CFO were arrested by the FBI for cooking the books and inflating revenues, 2) They lied to their own board of directors about the company's financial performance, 3) The criminal fraud charges made the CRM company unsustainable and 'toast,' 4) This case demonstrates that even private companies face serious legal consequences for financial misrepresentation, regardless of SEC filing requirements."
+  },
+  {
+    "company": "Essential Products",
+    "funding": "$330M",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "Redpoint Ventures",
+      "Playground Global",
+      "Tencent Holdings"
+    ],
+    "failure_reason": "Essential is shutting down less than three years after the startup unveiled its first smartphone. The company's only complete product, the Essential Phone, sold poorly and received mixed reviews. A follow-up phone was canceled, and a number of other promised devices — like a smart home assistant and operating system — never materialized.",
+    "prompt": "Why did Essential Products fail despite Andy Rubin's reputation?",
+    "completion": "Essential Products failed despite founder Andy Rubin's reputation as the creator of Android: 1) Their flagship Essential Phone sold poorly and received mixed reviews from critics, 2) The planned follow-up phone was canceled due to market reception, 3) Promised products like a smart home assistant and operating system never materialized, 4) The company couldn't compete effectively in the saturated smartphone market despite $330M in funding and Rubin's industry credibility."
+  },
+  {
+    "company": "Expand Networks",
+    "funding": "$69M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "The Challenge Fund-Etgar",
+      "Tamir Fishman Ventures"
+    ],
+    "failure_reason": "Although Expand Networks won appreciation for its technology, its operational performance was much less impressive. The court documents show that it was losing $ 250,000 a month and had $ 11 million revenue in 2010. Although it was a pioneer in its field, it failed to make a breakthrough.",
+    "prompt": "Why couldn't network optimization pioneer Expand Networks achieve profitability?",
+    "completion": "Expand Networks failed to achieve profitability despite pioneering technology: 1) The network optimization company won appreciation for its technology but had poor operational performance, 2) They were losing $250,000 per month while generating only $11M in annual revenue, 3) Despite being a pioneer in their field, they couldn't make the breakthrough needed for profitability, 4) This shows how technical innovation alone isn't sufficient without operational excellence and market execution."
+  },
+  {
+    "company": "FST Biometrics",
+    "funding": "$20M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "GMF Capital",
+      "Olive Tree Ventures"
+    ],
+    "failure_reason": "It came with some of the best credentials a security technology company could have, as well as $23 million in venture capital behind it, but FST Biometrics is closing up shop after 11 years. A source at the company who asked not to be identified said Tuesday that the board voted June 14 to cease operations. 'Management is now making an effort to meet its obligations to customers and minimize the harm to its employees,' the source said.",
+    "prompt": "Why did well-credentialed biometrics company FST Biometrics shut down?",
+    "completion": "FST Biometrics shut down despite strong credentials and funding: 1) The security technology company had excellent credentials and $20M in venture capital, 2) After 11 years of operation, the board voted to cease operations, 3) Management focused on meeting customer obligations and minimizing employee harm, 4) The orderly shutdown suggests strategic decision rather than sudden crisis, indicating the biometrics market wasn't large enough to sustain the business despite strong technology."
+  },
+  {
+    "company": "Fast",
+    "funding": "$125M",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "Index Ventures",
+      "Stripe",
+      "Addition",
+      "Global Founders Capital"
+    ],
+    "failure_reason": "One-click checkout startup Fast is shutting down entirely and will discontinue its products and brand. It's a stunning collapse for a fintech company that had raised $120 million in funding from backers including payments giant Stripe, Index Ventures and Lee Fixel's Addition. Fast has been aiming to transform online shopping by making it easier to check out across a wide range of stores.",
+    "prompt": "Why did Fast fail as a one-click checkout solution?",
+    "completion": "Fast failed despite raising $125M from prominent investors including Stripe and Index Ventures. The one-click checkout startup aimed to transform online shopping by simplifying checkout across multiple stores, but was unable to achieve sufficient adoption or revenue to sustain operations. The 'stunning collapse' suggests the company couldn't find product-market fit for their checkout solution despite significant financial backing."
+  },
+  {
+    "company": "Freshly",
+    "funding": "$107M",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "Highland Capital Partners",
+      "Insight Partners",
+      "Slow Ventures"
+    ],
+    "failure_reason": "Freshly is halting direct-to-consumer (D2C) meal deliveries as economic challenges rack the company and the broader meal delivery industry. As consumers left their homes in 2021, shifting their food spending to dining out, and as economic conditions worsened in 2022, prompting many consumers to pare back their retail subscriptions, the company's performance took a turn for the worse.",
+    "prompt": "What factors led to Freshly's shutdown?",
+    "completion": "Freshly shut down due to multiple economic pressures: 1) Consumer behavior shift in 2021 as people returned to dining out instead of meal delivery services, 2) Worsening economic conditions in 2022 that led consumers to cancel retail subscriptions, 3) Broader challenges facing the entire meal delivery industry. These factors combined to make the D2C meal delivery model unsustainable despite $107M in funding."
+  },
+  {
+    "company": "Fridge No More",
+    "funding": "$17M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "Insight Partners",
+      "AltaIR Capital",
+      "AltaClub"
+    ],
+    "failure_reason": "After the pandemic made on-demand delivery startups a lifeline for many Americans, the New York City landscape became crowded with startups offering ultra-fast deliveries. Fridge No More launched in October 2020, followed by competitors. Their fight for consumers brought rich discounts and splashy marketing, but the long-term potential of the business model remains unclear. Fridge No More CEO Pavel Danivol told employees in an email Thursday that a deal with a potential buyer fell through two days earlier and that it could not continue operating.",
+    "prompt": "How did a failed acquisition kill ultra-fast delivery startup Fridge No More?",
+    "completion": "Fridge No More was killed when their acquisition deal fell through: 1) The ultra-fast delivery startup launched during the pandemic boom in on-demand services, 2) Intense competition with rich discounts and marketing made the NYC market unsustainable, 3) A potential buyer's deal fell through just two days before the shutdown announcement, 4) Without the acquisition, the company couldn't continue operating in the capital-intensive, competitive delivery market."
+  },
+  {
+    "company": "GoBear",
+    "funding": "$97M",
+    "category": "Total funding from $75M - $100M",
+    "investors": [
+      "Walvis Participaties",
+      "Aegon"
+    ],
+    "failure_reason": "In a statement, the fintech firm said Covid-19 has made the operating and fundraising environment 'very challenging,' despite the firm having made progress in its growth and transformation plans last year. The factors included a prolonged period of weakened demand for some financial products and services, in particular travel insurance.",
+    "prompt": "How did COVID-19 impact GoBear's business?",
+    "completion": "COVID-19 devastated GoBear's financial comparison platform: 1) The pandemic made both operations and fundraising extremely challenging, 2) Demand for financial products, especially travel insurance, collapsed during lockdowns, 3) Despite progress in growth and transformation plans, the external environment became unsustainable, 4) The travel-dependent nature of their insurance comparison business made them particularly vulnerable to pandemic-related travel restrictions."
+  },
+  {
+    "company": "Goldfinch Bio",
+    "funding": "$214M",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "Third Rock Ventures",
+      "Gilead Sciences",
+      "BlackRock"
+    ],
+    "failure_reason": "CEO Tony Johnson and Chief Financial and Operating Officer Kyle Kuvalanka told Fierce Biotech that the company is closing up shop after failing to secure additional financing. The company had reduced its workforce over the course of 2022 while winding down and has been operating with a small staff. 'Unfortunately, we had funding challenges, just like I think the rest of the environment, particularly private companies, in the current macro environment.'",
+    "prompt": "Why did Goldfinch Bio fail despite raising over $200M?",
+    "completion": "Goldfinch Bio failed primarily due to funding challenges in a difficult macroeconomic environment for private companies. Despite raising $214M from major investors like Third Rock Ventures and BlackRock, the biotech company was unable to secure additional financing needed to continue operations. The company had already reduced its workforce throughout 2022 before ultimately shutting down."
+  },
+  {
+    "company": "Gridco Systems",
+    "funding": "$54M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "General Catalyst",
+      "North Bridge Venture Partners",
+      "Lux Capital"
+    ],
+    "failure_reason": "Utilities have failed so far to expand their use of distribution grid-level power electronics much beyond the pilot phase, leaving Gridco with little opportunity to grow to the scale necessary to maintain its operations on the strength of its own revenues. 'Though we were able to successfully prove Gridco's technology as best-in-class for use in utility-scale volt/VAR optimization programs, the VVO market did not actualize quickly enough for us to achieve critical mass and financial self-sustainability,' said CEO Naimish Patel.",
+    "prompt": "Why couldn't grid technology company Gridco Systems achieve commercial scale?",
+    "completion": "Gridco Systems failed because the utility market moved too slowly: 1) Utilities failed to expand beyond pilot programs to full deployment of their grid technology, 2) Despite proving their technology was best-in-class for volt/VAR optimization, commercial adoption was too slow, 3) The VVO market didn't actualize quickly enough for them to achieve critical mass, 4) This shows how even superior technology can fail if customer adoption cycles are longer than startup funding runway."
+  },
+  {
+    "company": "Hello",
+    "funding": "$52.9M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "Cherubic Ventures",
+      "Temasek Holdings"
+    ],
+    "failure_reason": "Hello, the startup behind Sense sleep tracking devices, plans to shut down. The company recently laid off most of its staff. Hello recently held discussions to sell its assets in what one source described as 'a firesale' to Fitbit, but the deal fell through. 'The past few weeks we have been working hard to find the right home for Sense and we are still focused on that,' wrote founder and CEO James Proud.",
+    "prompt": "Why did sleep tracking startup Hello fail to find a buyer?",
+    "completion": "Hello failed when their acquisition talks fell through: 1) The sleep tracking device maker held discussions to sell to Fitbit in what was described as a 'firesale,' 2) The deal ultimately fell through, leaving them without an exit strategy, 3) They laid off most staff while searching for a buyer for their Sense sleep tracking technology, 4) Despite innovative sleep technology and backing from Temasek, they couldn't find a sustainable path forward independently or through acquisition."
+  },
+  {
+    "company": "Heygo",
+    "funding": "$21M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "Ascension",
+      "Point Nine Capital",
+      "Lightspeed Venture Partners"
+    ],
+    "failure_reason": "The startup Heygo generated millions of dollars in income for tour guides during a time when their normal business was nonexistent. The London-based virtual experiences platform was founded in 2020 as a way to help people 'travel' when the world was shut down during the pandemic. After nearly three years in operation, Heygo shut down permanently this week. 'The metrics changed post-Covid. There just wasn't a big enough market for the amount of money that we raised,' said John Tertan, who graduated from Oxford University in 2015 and then worked for a law firm for four years before founding Heygo.",
+    "prompt": "Why did virtual travel platform Heygo fail after COVID-19?",
+    "completion": "Heygo failed because the post-COVID market was too small: 1) The virtual travel platform was successful during pandemic lockdowns when real travel was impossible, 2) As travel restrictions lifted, demand for virtual experiences plummeted, 3) The founder admitted the post-COVID market wasn't large enough to justify their $21M in funding, 4) Despite helping tour guides earn millions during lockdowns, they couldn't sustain the business when real travel resumed, showing how pandemic-era business models often prove temporary."
+  },
+  {
+    "company": "Hipmunk",
+    "funding": "$55M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "Ignition Partners",
+      "Oak Investment Partners",
+      "NGP Capital"
+    ],
+    "failure_reason": "We carefully considered all potential avenues for Hipmunk and Concur Hipmunk and determined that it was in the best interests of our travelers, customers, our people, and SAP Concur to terminate the service and retain all of the intellectual property.",
+    "prompt": "Why did SAP shut down travel search engine Hipmunk?",
+    "completion": "SAP shut down Hipmunk for strategic reasons: 1) After acquiring the company, SAP determined the standalone service wasn't viable within their enterprise software portfolio, 2) They chose to retain the intellectual property rather than continue operations, 3) The decision prioritized integration with SAP Concur's corporate travel platform over consumer services, 4) This shows how acquisition by large enterprise companies can kill consumer-focused startups that don't fit the acquirer's strategic focus."
+  },
+  {
+    "company": "Homejoy",
+    "funding": "$39.7M",
+    "category": "Total funding from $25M - $50M",
+    "investors": [
+      "First Round Capital",
+      "Google Ventures",
+      "Max Levchin"
+    ],
+    "failure_reason": "CEO Adora Cheung said the 'deciding factor' was the four lawsuits it was fighting over whether its workers should be classified as employees or contractors. None of them were class actions yet, but they made fundraising that much harder. 'A lot of this is unfortunate timing. The [California Labor Commission's] Uber decision … was only a single claim, but it was blown out of proportion,' she told Re/code.",
+    "prompt": "Why did Homejoy shut down?",
+    "completion": "Homejoy shut down primarily due to legal challenges over worker classification: 1) The company was fighting four lawsuits over whether its cleaning service workers should be classified as employees or contractors, 2) CEO Adora Cheung stated this was the 'deciding factor' as these legal battles made fundraising extremely difficult, 3) The timing coincided with California's worker classification decisions affecting gig economy companies, 4) Despite backing from Google Ventures and others, the regulatory uncertainty around gig worker classification made the business model unsustainable."
+  },
+  {
+    "company": "Homepolish",
+    "funding": "$17M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "Alumni Ventures Group",
+      "Elephant Venture Capital"
+    ],
+    "failure_reason": "CEO Noa Santos told designers [the funding is] all gone. 'We frankly don't have the funding left to run the business on an ongoing basis,' Santos said in a video conference call on Wednesday with the company's remaining employees. Designers will not be paid any owed earnings and customers will not be receiving refunds.",
+    "prompt": "How did Homepolish's financial collapse hurt designers and customers?",
+    "completion": "Homepolish's collapse left designers and customers without compensation: 1) CEO Noa Santos admitted they had no funding left to continue operations, 2) Interior designers were told they wouldn't be paid their owed earnings, 3) Customers were informed they wouldn't receive refunds for services, 4) The sudden financial collapse left both suppliers (designers) and customers financially harmed, showing how startup failures can create widespread damage beyond investors and employees."
+  },
+  {
+    "company": "Houseparty",
+    "funding": "$69.7M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "Sequoia Capital",
+      "Greylock Partners",
+      "Comcast Ventures"
+    ],
+    "failure_reason": "Epic says that 'tens of millions of people' have used the app. Going forward, however, 'the team behind Houseparty is working on creating new ways to have meaningful and authentic social interactions at metaverse scale across the Epic Games family.' That seems to indicate that Epic has more social features in the works for games like Fortnite and Rocket League that the Houseparty team will be contributing to.",
+    "prompt": "Why did Epic Games shut down Houseparty?",
+    "completion": "Epic Games shut down Houseparty to focus on metaverse integration: 1) Despite tens of millions of users, Epic decided to pivot the team toward building social features for their gaming platforms, 2) The standalone video chat app didn't align with Epic's broader metaverse strategy, 3) Epic saw more value in integrating social features directly into Fortnite and Rocket League, 4) The shutdown represents a strategic reallocation rather than failure - Epic acquired the team's expertise for their gaming ecosystem."
+  },
+  {
+    "company": "Hubba",
+    "funding": "$59M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "Brightspark Ventures",
+      "Kensington Capital Partners",
+      "Real Ventures",
+      "GS Growth"
+    ],
+    "failure_reason": "It is unclear to what extent the COVID-19 pandemic had hampered Hubba's growth and customer base. However, one source BetaKit spoke with claimed a months-long battle between Zifkin and Hubba's board of directors regarding the ongoing viability of the company. Recent StatCan data indicates that over half of Canadian businesses saw a drop in revenue compared to 2019, with 20 percent seeing a revenue drop of 40 percent or more.",
+    "prompt": "What internal conflicts led to Hubba's shutdown?",
+    "completion": "Hubba shut down amid board conflicts and COVID-19 impact: 1) There was a months-long battle between founder Zifkin and the board over the company's viability, 2) COVID-19 severely impacted their B2B marketplace connecting brands with retailers, 3) Over half of Canadian businesses saw revenue drops, particularly affecting Hubba's retail customers, 4) The combination of internal governance issues and external market pressures made the company unsustainable."
+  },
+  {
+    "company": "IRL",
+    "funding": "$197M",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "Founders Fund",
+      "SoftBank",
+      "Kleiner Perkins Caufield & Byers"
+    ],
+    "failure_reason": "Ironically, the social app IRL's users do not exist in real life. An internal investigation by IRL's board of directors found that 95% of the app's reported 20 million users were 'automated or from bots.'",
+    "prompt": "What caused IRL's shutdown?",
+    "completion": "IRL shut down after an internal investigation revealed that 95% of its reported 20 million users were fake - either automated accounts or bots. This massive user fraud undermined the entire business model of the social app, as the company was essentially operating without real users despite raising $197M from prominent investors."
+  },
+  {
+    "company": "IfOnly",
+    "funding": "$54M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "New Enterprise Associates",
+      "Khosla Ventures",
+      "Founders Fund"
+    ],
+    "failure_reason": "IfOnly — an 'experiences' marketplace based around access to exclusive, and often expensive, events and people, with a portion of the proceeds that a guest pays for the experience going towards good causes — was quietly acquired and shut down by credit giant Mastercard for an undisclosed sum. IfOnly's business had ground to a halt in the wake of the coronavirus pandemic. The sale puts an end to a startup that began life with exclusive experiences that appeared to be aimed squarely at the one percent.",
+    "prompt": "Why did luxury experiences platform IfOnly get acquired and shut down?",
+    "completion": "IfOnly was killed by COVID-19's impact on luxury experiences: 1) The pandemic completely halted their high-end experiences marketplace targeting wealthy customers, 2) Luxury events and exclusive experiences were among the first casualties of lockdowns, 3) Mastercard acquired the company primarily for technology and team rather than the business model, 4) The platform's focus on the 'one percent' made it particularly vulnerable to economic uncertainty and travel restrictions."
+  },
+  {
+    "company": "Jawbone",
+    "funding": "$929.9M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "Khosla Ventures",
+      "Sequoia Capital",
+      "Kleiner Perkins Caufield & Byers"
+    ],
+    "failure_reason": "In July 2017, device maker Jawbone became one of the most spectacular failures in the history of startups. Despite grabbing $930M in funding during its 17-year lifespan, Jawbone failed to hold on to significant market share for its line of headsets, fitness trackers, and wireless speakers. With its demise, Jawbone become the second-costliest VC-backed startup failure of all time.",
+    "prompt": "How did Jawbone fail despite raising nearly $1 billion?",
+    "completion": "Jawbone became one of the most spectacular startup failures in history despite raising $930M over 17 years from top-tier VCs like Sequoia and Kleiner Perkins. The company failed to maintain significant market share across its product lines (headsets, fitness trackers, and wireless speakers), ultimately being unable to compete effectively in the increasingly crowded consumer electronics market, making it the second-costliest VC-backed startup failure of all time."
+  },
+  {
+    "company": "Juicero",
+    "funding": "$99.9M",
+    "category": "Total funding from $75M - $100M",
+    "investors": [
+      "Kleiner Perkins Caufield & Byers",
+      "Thrive Capital"
+    ],
+    "failure_reason": "Juicero's demise was the consequence of unsustainable costs, unflattering headlines and a bungled product launch. After attracting about $134 million in funding from such illustrious investors as Google Ventures and Kleiner Perkins Caufield & Byers, Juicero was losing about $4 million a month. Four years after its founding, the startup was unable to find new backers willing to fund its ambition of making fresh juice accessible to all.",
+    "prompt": "What led to Juicero's failure?",
+    "completion": "Juicero failed due to: 1) Unsustainable costs with the company losing $4 million per month, 2) Unflattering media coverage that highlighted the product's impracticality (including that packets could be squeezed by hand), 3) A bungled product launch of their $699 Wi-Fi-connected juice press, 4) Inability to find new investors willing to continue funding the money-losing operation after four years and $134M in funding."
+  },
+  {
+    "company": "Jumpshot",
+    "funding": "$83M",
+    "category": "Total funding from $75M - $100M",
+    "investors": [
+      "Avast Software",
+      "Ascential"
+    ],
+    "failure_reason": "Our investigation found that Avast, through a subsidiary called Jumpshot, made millions of dollars following its users around the internet. Jumpshot told its clients, which include Microsoft, Google, McKinsey, Pepsi, Home Depot, Yelp, and many others that it could track 'every search. Every click. Every buy. On every site.' Avast CEO Ondrej Vlcek wrote in a public letter that he and the company's board of directors have decided to 'terminate the Jumpshot data collection and wind down Jumpshot's operations, with immediate effect.'",
+    "prompt": "Why was Jumpshot shut down by parent company Avast?",
+    "completion": "Jumpshot was shut down due to privacy violations: 1) The company was tracking users' complete internet activity ('every search, every click, every buy') without proper consent, 2) Avast, the parent company, was selling this detailed user data to major corporations like Microsoft and Google, 3) A public investigation exposed the extensive privacy violations, 4) Facing regulatory and public pressure, Avast's board decided to immediately terminate Jumpshot's operations to protect the parent company."
+  },
+  {
+    "company": "Karakuri",
+    "funding": "$18M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "Ocado",
+      "Founders Factory",
+      "UK Future Fund"
+    ],
+    "failure_reason": "Karakuri, a startup that made a robotic food kiosk that assembles various cold and hot ingredients into prepared meals, is shutting down, according to founder Barney Wragg. In a post on Linkedin, Wragg cited the pandemic and the challenging fundraising environment as the reason for the news and included a link to a Google Sheet with Karakuri employees who Wragg said it was 'incumbent' on him to assist in finding new roles.",
+    "prompt": "How did COVID-19 and funding challenges kill food robotics startup Karakuri?",
+    "completion": "Karakuri was killed by pandemic impact and funding difficulties: 1) The robotic food kiosk startup was hit by both COVID-19 and challenging fundraising conditions, 2) Founder Barney Wragg took responsibility for helping employees find new roles, 3) Despite backing from Ocado and UK government funds, they couldn't raise additional capital, 4) The pandemic likely reduced demand for automated food kiosks as foot traffic in commercial locations plummeted."
+  },
+  {
+    "company": "Karhoo",
+    "funding": "$52M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "David Kowitz",
+      "Jonathan Feuer",
+      "Nick Gatfield"
+    ],
+    "failure_reason": "Ultimately, [its] structure … is based on very large economies of scale … building out any transport service before it can get to that scale is extremely capital intensive … Karhoo, however, didn't appear to have the reach with consumers to achieve anything like enough scale. [Its shutdown letter states that the] 'Karhoo staff around the world in London, New York, Singapore and Tel Aviv have, over the past 18-months [sic], worked tirelessly to make Karhoo a success. Many of them have worked unpaid for the last six weeks in an effort to get the business to a better place. Unfortunately, by the time the new management team took control last week, it was clear that the financial situation was pretty dire, and Karhoo was not able to find a backer.'",
+    "prompt": "How did scale requirements and financial problems kill ride-hailing startup Karhoo?",
+    "completion": "Karhoo was killed by inability to achieve necessary scale: 1) Their transport service business model required very large economies of scale to be viable, 2) Building scale before achieving it is extremely capital intensive, 3) They couldn't reach enough consumers to achieve the necessary scale despite global operations, 4) Employees worked unpaid for six weeks trying to save the business, but the financial situation was too dire and they couldn't find new backing."
+  },
+  {
+    "company": "Katerra",
+    "funding": "$1.5B",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "SoftBank Group",
+      "Greenoaks Capital Management",
+      "Foxconn Technology Company",
+      "Khosla Ventures"
+    ],
+    "failure_reason": "Katerra's fall marks the most high-profile failure for SoftBank since the failed 2019 WeWork IPO. The firm has largely been seeing gains among its Vision Fund portfolio in the past year amid a larger tech stock rally, though some of those gains have receded in recent months. In an interview with Barron's last month, CEO Masayoshi Son highlighted Katerra as well as SoftBank's investment in Greensill as 'regrets' of his.",
+    "prompt": "What made Katerra one of SoftBank's biggest failures?",
+    "completion": "Katerra became SoftBank's most high-profile failure since WeWork due to: 1) Overly ambitious attempts to revolutionize construction through technology and vertical integration, 2) The construction industry's resistance to rapid technological disruption, 3) High capital requirements and complex operational challenges in construction, 4) SoftBank CEO Masayoshi Son publicly acknowledged Katerra as one of his biggest 'regrets,' highlighting the scale of the failure despite $1.5B in funding."
+  },
+  {
+    "company": "Kite",
+    "funding": "$21M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "Trinity Ventures",
+      "SV Angel",
+      "Arab Angel Fund"
+    ],
+    "failure_reason": "Kite, a startup developing an AI-powered coding assistant, abruptly shut down last month. Despite securing tens of millions of dollars in VC backing, Kite struggled to pay the bills, founder Adam Smith revealed in a postmortem blog post, running into engineering headwinds that made finding a product-market fit essentially impossible. 'We failed to deliver our vision of AI-assisted programming because we were 10+ years too early to market, i.e., the tech is not ready yet,' Smith said. 'Our product did not monetize, and it took too long to figure that out.'",
+    "prompt": "Why was AI coding assistant Kite too early to market?",
+    "completion": "Kite failed because AI coding technology was 10+ years too early: 1) Despite securing $21M in VC backing, they couldn't achieve product-market fit for AI-assisted programming, 2) The founder admitted the technology wasn't ready yet and they were too early to market, 3) Engineering headwinds made their vision of AI coding assistance impossible to deliver effectively, 4) The product failed to monetize and took too long to discover this fundamental problem, predating the current generative AI boom by several years."
+  },
+  {
+    "company": "Kitty Hawk",
+    "funding": "$101M",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "Defense Innovation Unit",
+      "Larry Page"
+    ],
+    "failure_reason": "After more than a decade of trying to make flying cars a reality, Kitty Hawk is shutting down. It's unclear why Kitty Hawk decided to call it quits, but comments Kitty Hawk CEO Sebastian Thrun made after the company ended development on Flyer may provide a clue. 'No matter how hard we looked, we could not find a path to a viable business,' the chief executive said at the time.",
+    "prompt": "Why did Larry Page's flying car company Kitty Hawk fail?",
+    "completion": "Kitty Hawk failed after more than a decade of attempting to commercialize flying cars: 1) Despite backing from Google co-founder Larry Page and $101M in funding, they could not find a path to a viable business model, 2) The technical challenges of making flying cars practical and commercially viable proved insurmountable, 3) After ending development on their Flyer product, the company acknowledged they couldn't make the economics work, 4) The flying car market remains too early-stage for commercial success."
+  },
+  {
+    "company": "KupiVIP",
+    "funding": "$119.5M",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "MCI Capital",
+      "Accel",
+      "Balderton Capital",
+      "Intel Capital"
+    ],
+    "failure_reason": "'It is true that the initial business model turned out no longer unique. A commercial innovation introduced in Russia by KupiVIP, discounts progressively became the norm both online and offline,' David Waroquier of Mangrove Capital Partners previously told East-West Digital News. 'KupiVIP attempted to become omnichannel, involving operating across its websites, mobile app and brick-and-mortar retail stores. All this required significant capital, given the size of the Russian market.'",
+    "prompt": "Why did Russian e-commerce pioneer KupiVIP fail?",
+    "completion": "KupiVIP failed because their business model became commoditized: 1) Their original innovation of offering discounts became standard practice across online and offline retail, 2) The company lost its competitive advantage as discount models became ubiquitous, 3) Their attempt to become omnichannel across websites, mobile apps, and physical stores required significant capital, 4) The scale needed to succeed in the Russian market proved too expensive to maintain, and international market conditions made funding difficult."
+  },
+  {
+    "company": "L1ght",
+    "funding": "$15M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "Mangrove Capital Partners",
+      "Tribeca Venture Partners"
+    ],
+    "failure_reason": "Israeli startup L1ght, which developed technology to identify and analyze harmful online content, is shutting down. The company, founded by Ron Porat and Zohar Levkovitz, has notified all 22 of its employees that they are being laid off. According to the company, it was ultimately forced to shut down after a deal to be acquired fell through.",
+    "prompt": "How did a failed acquisition lead to L1ght's shutdown?",
+    "completion": "L1ght was forced to shut down when their acquisition deal failed: 1) The Israeli startup developed technology to identify and analyze harmful online content, 2) Despite having promising technology for content moderation, they couldn't sustain independent operations, 3) An acquisition deal that could have saved the company ultimately fell through, 4) With only 22 employees, the small team couldn't continue operations without the acquisition, showing how smaller startups often depend on exits for survival."
+  },
+  {
+    "company": "LOYAL3",
+    "funding": "$62.4M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "Community Investment Management",
+      "Brevet Capital Management",
+      "Trinity Ventures",
+      "Giles Raymond"
+    ],
+    "failure_reason": "Loyal3, a commission-free brokerage that initially emphasized IPO shares before transforming into a discount broker, announced Wednesday it will close its doors May 19. Offering a portfolio of 70 stocks, the firm allowed beginner investors to purchase fractional shares and to engage in transactions as low as $10 and as high as $2,500. The strategy relied on batch trading, wherein Loyal3 grouped company trades and executed only once a day.",
+    "prompt": "Why did commission-free broker LOYAL3 shut down?",
+    "completion": "LOYAL3 shut down despite pioneering commission-free and fractional trading: 1) The discount broker allowed fractional shares and small transactions ($10-$2,500) for beginner investors, 2) Their batch trading strategy of executing trades once daily wasn't competitive enough, 3) Despite being early to commission-free and fractional investing, they couldn't compete with larger players, 4) The concepts they pioneered (commission-free, fractional shares) were later successfully adopted by companies like Robinhood, showing how being early doesn't guarantee success."
+  },
+  {
+    "company": "LV Sensors",
+    "funding": "$27M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "US Venture Partners",
+      "Mayfield Fund"
+    ],
+    "failure_reason": "The company closed its doors in the spring after failing to raise a new round of capital. Though many sectors have been under pressure as venture funding is harder to get than it was a year ago, chip companies have been especially hard hit due to their high capital needs and the many years it can take to move beyond the development stage.",
+    "prompt": "Why are chip companies like LV Sensors particularly vulnerable to funding challenges?",
+    "completion": "LV Sensors failed because chip companies face unique funding challenges: 1) Semiconductor companies require exceptionally high capital for development and manufacturing, 2) The development timeline for chips spans many years before revenue generation, 3) During funding downturns, VCs avoid capital-intensive sectors with long development cycles, 4) The combination of high cash needs and extended time to market makes chip startups extremely vulnerable when venture funding becomes scarce."
+  },
+  {
+    "company": "Lantern",
+    "funding": "$21.5M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "Stanford University",
+      "The University of Pittsburgh Medical Center"
+    ],
+    "failure_reason": "It is with a heavy heart that we are forced to admit that Lantern as it exists today will not be able to accomplish its mission to provide affordable and accessible mental health services that empower people to live their healthiest and happiest lives. We've spent the past six years working hard to build a product that is engaging for users, reduces symptoms, and has a sustainable business model. After some trial and error in the direct to consumer and employer spaces, we ultimately pursued a strategy of alignment with traditional healthcare insurance companies. Healthcare moves very slowly and we made the mistake of misjudging the time it would take to achieve sustainable revenue through this approach.",
+    "prompt": "Why did mental health startup Lantern fail despite six years of development?",
+    "completion": "Lantern failed because they misjudged healthcare industry timelines: 1) Despite six years building an engaging mental health product that reduced symptoms, they couldn't achieve sustainable revenue, 2) After trying direct-to-consumer and employer markets, they pivoted to insurance company partnerships, 3) They underestimated how slowly the healthcare industry moves and how long insurance partnerships take, 4) The mistake of misjudging healthcare sales cycles left them without sustainable revenue despite having a working product."
+  },
+  {
+    "company": "LeSports",
+    "funding": "$1.7B",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "HNA Capital",
+      "Caissa Travel",
+      "Zhongtai Securities",
+      "Fortune Link"
+    ],
+    "failure_reason": "The Hong Kong-based sports streaming arm of cash-starved mainland Chinese conglomerate LeEco closed on Thursday night because of overdue rent. LeSports HK confirmed its shutdown amid other problems – the Consumer Council revealed it also received 30 subscription-related complaints against the troubled company.",
+    "prompt": "What led to LeSports' shutdown?",
+    "completion": "LeSports shut down due to financial distress: 1) The company couldn't pay basic operating expenses like rent, forcing closure, 2) Parent company LeEco was cash-starved, affecting all subsidiaries, 3) They faced 30 subscription-related complaints, indicating customer service and fulfillment issues, 4) Despite raising $1.7B, the sports streaming service couldn't achieve sustainable operations, highlighting how even well-funded subsidiaries can fail when parent companies face financial difficulties."
+  },
+  {
+    "company": "LendUp",
+    "funding": "$366M",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "Andreessen Horowitz",
+      "Google Ventures",
+      "Y Combinator",
+      "PayPal Ventures"
+    ],
+    "failure_reason": "'LendUp was backed by some of the biggest names in venture capital,' said CFPB Director Rohit Chopra in a Tuesday statement. 'We are shuttering the lending operations of this fintech for repeatedly lying and illegally cheating its customers.'",
+    "prompt": "Why was LendUp shut down by regulators?",
+    "completion": "LendUp was shut down by the Consumer Financial Protection Bureau (CFPB) for regulatory violations: 1) The CFPB found the company was 'repeatedly lying and illegally cheating its customers,' 2) Despite backing from top VCs like Andreessen Horowitz and Google Ventures, the company engaged in predatory lending practices, 3) The regulatory shutdown demonstrates that even well-funded fintechs cannot survive serious compliance violations, 4) The company's business practices violated consumer protection laws despite raising $366M."
+  },
+  {
+    "company": "Lido Learning",
+    "funding": "$24M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "Picus Capital",
+      "Unilazer Ventures",
+      "ZNL Ventures"
+    ],
+    "failure_reason": "In a nightmare for more than 150 employees, homegrown edtech startup Lido Leaning which is backed by top entrepreneur Ronnie Screwvala, has apparently shut operations, forcing its workforce to seek help via social media platforms. Several vendors and employees of Lido Learning took to social media and professional networking platforms, complaining about delayed payments and no salaries for nearly two months.",
+    "prompt": "What employment issues led to Lido Learning's collapse?",
+    "completion": "Lido Learning collapsed due to severe employment and payment issues: 1) Over 150 employees were left without salaries for nearly two months, 2) Vendors and employees resorted to social media to seek help and complain about delayed payments, 3) The edtech startup's financial troubles forced workers to publicly air grievances on professional platforms, 4) Despite backing from prominent entrepreneur Ronnie Screwvala, the company couldn't meet basic payroll obligations, indicating severe cash flow crisis."
+  },
+  {
+    "company": "Lighthouse AI",
+    "funding": "$17M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "Eclipse Ventures",
+      "Felicis Ventures",
+      "SignalFire"
+    ],
+    "failure_reason": "Lighthouse AI, a smarthome startup, stated on its website: To our customers, investors, family, friends, partners, fans, and everyone else involved in the Lighthouse journey: It's been a pleasure, and we can't thank you enough for your support along the way. I am incredibly proud of the groundbreaking work the Lighthouse team accomplished – delivering useful and accessible intelligence for our homes via advanced AI and 3D sensing. Unfortunately, we did not achieve the commercial success we were looking for and will be shutting down operations in the near future.",
+    "prompt": "Why couldn't Lighthouse AI achieve commercial success with their smart home technology?",
+    "completion": "Lighthouse AI failed to achieve commercial success despite groundbreaking technology: 1) The smart home startup developed advanced AI and 3D sensing for home intelligence, 2) Despite delivering useful and accessible technology, they couldn't achieve commercial viability, 3) The founder was proud of their technical accomplishments but acknowledged market failure, 4) This shows how even innovative AI technology can fail to find sufficient market demand, especially in the competitive smart home space."
+  },
+  {
+    "company": "Local Motors",
+    "funding": "$15M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "GE Ventures",
+      "Airbus Ventures",
+      "VTF Capital"
+    ],
+    "failure_reason": "'I am disheartened to announce that Local Motors will cease to exist as of January 14,' wrote Chris Stoner, former VP of sales and customer success. 'I was only there a few months, but loved every minute of it. I made some great friends, both locally and globally, which makes it worthwhile. The autonomous vehicle space is an exciting emerging market with plenty of opportunity. Experiencing first-hand the skill and dedication of the people I worked with, I have no doubt AVs (like Olli) are the future of transportation.'",
+    "prompt": "What happened to autonomous shuttle maker Local Motors?",
+    "completion": "Local Motors shut down despite belief in autonomous vehicle potential: 1) The company that created the Olli autonomous shuttle ceased operations in January, 2) Employees believed in the technology and the autonomous vehicle market's future potential, 3) Despite backing from GE Ventures and Airbus, they couldn't sustain operations, 4) The shutdown suggests the autonomous vehicle market wasn't ready for their 3D-printed, crowd-sourced vehicle approach, despite the team's skill and technology potential."
+  },
+  {
+    "company": "Loon",
+    "funding": "$125M",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "HAPSMobile"
+    ],
+    "failure_reason": "Google's dream of delivering global internet access with a fleet of balloons floating on the edge of space came to an end. Astro Teller, head of X, said that 'despite the team's groundbreaking technical achievements over the last nine years, the road to commercial viability has proven much longer and riskier than hoped.' X would not comment on why its view of Loon's commercial prospects had shifted in the space of the past six months.",
+    "prompt": "Why did Google shut down Project Loon?",
+    "completion": "Google shut down Project Loon because: 1) Despite nine years of groundbreaking technical achievements in balloon-based internet delivery, commercial viability proved elusive, 2) The path to profitability was much longer and riskier than initially anticipated, 3) Google's Alphabet decided the project couldn't justify continued investment, 4) The ambitious goal of providing global internet access via high-altitude balloons faced insurmountable commercial challenges despite technical success."
+  },
+  {
+    "company": "Mamsy",
+    "funding": "$15M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "RTP Global",
+      "Baring Vostok Capital Partners"
+    ],
+    "failure_reason": "Online e-commerce platforms, KupiVIP and Mamsy, both managed by parent company, Private Trade, have announced they will close after 13 years in operation. KupiVIP was established in 2008 and focussed on discount sales. Mamsy specialised in mid-price products for children and women. Its revenue last year, according to SPARK-Interfax, amounted to 671.6 million roubles ($9.2 million), representing a year-on-year loss of 167.9 million roubles ($2.3 million).",
+    "prompt": "Why did Russian e-commerce platform Mamsy shut down after 13 years?",
+    "completion": "Mamsy shut down due to sustained losses despite 13 years of operation: 1) The Russian e-commerce platform specialized in mid-price products for children and women, 2) Despite $9.2M in revenue, they had a $2.3M annual loss, 3) The parent company Private Trade decided to close both Mamsy and KupiVIP simultaneously, 4) After more than a decade in business, they couldn't achieve profitability in the competitive Russian e-commerce market."
+  },
+  {
+    "company": "Mandolin",
+    "funding": "$22M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "Salesforce Ventures",
+      "Foundry",
+      "TIME Ventures"
+    ],
+    "failure_reason": "Mandolin, a live-stream concert platform that thrived after COVID-19 put a pause on in-person experiences, quietly closed its doors on Monday amid the resurgence of live touring and concerts. Mandolin launched on June 1, 2020, months into the pandemic, and less than a year later was named the best streaming platform at the 2021 Pollstar Awards. Around this same time last year, Mandolin was testing different ways to keep the concert streaming boom going by launching a variety of initiatives aimed at maximizing the in-person concert experience with a wide range of digital services.",
+    "prompt": "How did the return of live concerts kill streaming platform Mandolin?",
+    "completion": "Mandolin was killed by the return of live concerts: 1) The platform thrived during COVID-19 when in-person concerts were impossible, even winning best streaming platform awards, 2) As live touring resumed, demand for virtual concerts plummeted, 3) Their attempts to bridge virtual and in-person experiences couldn't replace the core streaming business, 4) The pandemic created a temporary market that disappeared as restrictions lifted, showing how external events can create and destroy entire business models."
+  },
+  {
+    "company": "Microdisplay Corporation",
+    "funding": "$33M",
+    "category": "Total funding from $25M - $50M",
+    "investors": [
+      "Mobius Venture Capital",
+      "BlueRun Ventures"
+    ],
+    "failure_reason": "'We knew that we were entering a mature, competitive market, and that we had a narrow window in which to succeed. We developed a TV with a unique display technology, excellent picture quality and a low cost, and we saw an opportunity. Unfortunately, the recent uncertainty in the TV industry, highlighted by particularly slow sales in May, made it virtually impossible to introduce a new type of projection TV at this time.'",
+    "prompt": "What market timing issues killed Microdisplay Corporation?",
+    "completion": "Microdisplay Corporation was killed by poor market timing: 1) They entered an already mature and competitive TV market with a narrow window for success, 2) Despite developing superior display technology with excellent picture quality at low cost, market conditions deteriorated, 3) TV industry uncertainty and slow sales made it impossible to launch a new projection TV technology, 4) Even innovative technology couldn't overcome adverse market timing, showing how external market conditions can defeat superior products."
+  },
+  {
+    "company": "Mindstrong",
+    "funding": "$160M",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "Optum Ventures",
+      "Bezos Expeditions",
+      "General Catalyst"
+    ],
+    "failure_reason": "Digital mental health company SonderMind is acquiring Mindstrong's technology assets months after the fellow mental health firm laid off more than a hundred workers and shuttered its headquarters. The deal includes Mindstrong's tech and some of the company's tech-related workforce. About 20 workers will have jobs at SonderMind. The rest of Mindstrong has terminated operations.",
+    "prompt": "What happened to Mindstrong?",
+    "completion": "Mindstrong, despite raising $160M for digital mental health services, failed as a standalone company and was forced to sell its technology assets to competitor SonderMind. The company laid off more than 100 workers, shuttered its headquarters, and terminated most operations. Only about 20 employees transitioned to SonderMind as part of the asset acquisition deal."
+  },
+  {
+    "company": "Modsy",
+    "funding": "$71M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "Google Ventures",
+      "Comcast Ventures",
+      "NBC Universal"
+    ],
+    "failure_reason": "In late June, Modsy, an online interior design services startup, abruptly ceased offering design services, laid off its designers and left customers with unfinished renovations and project orders in process. The company returned some service order charges and promised to refund furniture deliveries to those who completed a form. But more than two weeks later, tweets show that many Modsy customers are still awaiting updates. The reason is that Modsy quietly shut down in early July.",
+    "prompt": "What happened to interior design startup Modsy?",
+    "completion": "Modsy abruptly shut down, leaving customers stranded: 1) The online interior design service suddenly ceased operations in late June, laying off all designers, 2) Customers were left with unfinished renovations and pending orders, 3) While promising refunds, many customers remained unpaid weeks later, 4) The sudden closure despite backing from Google Ventures and NBC Universal suggests either rapid cash burn or strategic decision to exit the capital-intensive interior design market."
+  },
+  {
+    "company": "Move Networks",
+    "funding": "$60.3M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "Hummer Winblad Venture Partners",
+      "Steamboat Ventures"
+    ],
+    "failure_reason": "So what went wrong? For one thing, Move Networks never reached critical mass on the consumer side of things; despite early success with ABC, Fox, the CW, and others, many media companies shied away from the technology because it required a plugin that not many consumers had installed. This created a vicious chicken-and-egg problem: How do you get people to install the plugin if it's not being used to deliver good premium content? And how do you get good premium content unless people already have the plugin installed?",
+    "prompt": "How did the plugin requirement create a chicken-and-egg problem for Move Networks?",
+    "completion": "Move Networks was killed by a classic chicken-and-egg problem with their plugin: 1) Their video streaming technology required users to install a plugin that few people had, 2) Media companies avoided the technology because of low plugin adoption, 3) Without premium content, consumers had no reason to install the plugin, 4) Without widespread plugin installation, media companies wouldn't provide premium content, creating an unsolvable circular dependency that prevented scale."
+  },
+  {
+    "company": "Munchery",
+    "funding": "$117M",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "Greycroft Partners",
+      "Menlo Ventures",
+      "Sherpa Capital"
+    ],
+    "failure_reason": "As a player in the increasingly crowded food delivery space, Munchery announced: 'Today, with heavy heart, we're announcing that Munchery is closing its doors and ending operations effective immediately. Any outstanding orders with Munchery will be cancelled and refunded. Please allow 2-3 business days for these refunds to process.'",
+    "prompt": "Why did meal delivery service Munchery shut down?",
+    "completion": "Munchery shut down due to intense competition in food delivery: 1) The food delivery space became increasingly crowded with well-funded competitors, 2) Despite raising $117M, they couldn't differentiate sufficiently in the market, 3) The company announced immediate closure, indicating rapid cash depletion, 4) Their chef-prepared meal model couldn't compete effectively against platforms like DoorDash and Uber Eats that partnered with existing restaurants."
+  },
+  {
+    "company": "NebuAd",
+    "funding": "$31.6M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "Menlo Ventures",
+      "Sierra Ventures"
+    ],
+    "failure_reason": "The company, which has occasionally been described as the 'US version of Phorm', has been dying a slow death since US authorities forced the company to abandon its targeting practices with local internet service providers in September. NebuAd was sued in November 2008 by US web users, who alleged the company violated privacy rights by purchasing information about their web activity from ISPs, using the data to serve targeted ads. The company was investigated for its targeting practices, which included the purchase of detailed web history from broadband providers, including search queries and browsing habits. After being grilled in US Congress, NebuAd chief executive and founder Bob Dykes quit the company.",
+    "prompt": "How did privacy violations kill NebuAd?",
+    "completion": "NebuAd was killed by privacy violations and regulatory pressure: 1) US authorities forced them to abandon their core business of purchasing web browsing data from ISPs, 2) They were sued by users for violating privacy rights by tracking search queries and browsing habits, 3) Congressional investigation and public scrutiny led to the CEO's resignation, 4) Their entire business model of behavioral advertising based on purchased ISP data became legally and politically unsustainable, showing how privacy regulations can destroy data-dependent businesses."
+  },
+  {
+    "company": "Neufund",
+    "funding": "$19M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "Atlantic Labs",
+      "Freigeist Capital"
+    ],
+    "failure_reason": "Our hard-working team combined with you, our incredible community, went down the right path. However, the existing environment of the regulatory system seems not to be equipped yet to support innovative fintech companies. We are leaving the market as Neufund. Yet our mission will never die. We believe that digital securities will be the future of finance and the technology we've built in the process will one day enable that exciting future. Until that day, however, we'll keep rooting for innovation to trump conformity. Comfort is the enemy of progress.",
+    "prompt": "How did regulatory challenges kill blockchain securities platform Neufund?",
+    "completion": "Neufund was killed by regulatory systems unprepared for innovation: 1) The digital securities platform believed they were on the right path with strong team and community, 2) Regulatory systems weren't equipped to support innovative fintech companies like theirs, 3) Despite believing digital securities are the future of finance, current regulations made their business impossible, 4) They maintained optimism about their technology eventually enabling the future, but regulatory timing forced immediate shutdown."
+  },
+  {
+    "company": "Nice Tuan",
+    "funding": "$1.2B",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "Alibaba Group",
+      "GGV Capital",
+      "DST Global"
+    ],
+    "failure_reason": "As it expanded into small towns, costs rose disproportionately. Goods were sold at below cost to entice customers. Fake buyers appeared at the end of each month to meet sales targets. Regulators were alarmed. Nice Tuan reportedly had a sales target of 80 billion yuan in 2021 but brought in no more than 2 billion in a good month. In March, Nice Tuan was fined for fraud and dumping.",
+    "prompt": "What led to Nice Tuan's failure despite Alibaba backing?",
+    "completion": "Nice Tuan failed due to unsustainable business practices: 1) Expansion into small towns caused costs to rise disproportionately, 2) They sold goods below cost to attract customers, creating unsustainable unit economics, 3) The company used fake buyers to artificially inflate sales numbers and meet targets, 4) Despite targeting 80 billion yuan in sales, they never exceeded 2 billion yuan in monthly revenue, 5) Regulatory fines for fraud and dumping damaged their business further."
+  },
+  {
+    "company": "Nirvanix",
+    "funding": "$70M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "Valhalla Partners",
+      "Mission Ventures"
+    ],
+    "failure_reason": "By trying to play in the pure storage business, Nirvanix found itself in a market that, over the past five years, became increasingly commoditized by Amazon Web Services, Windows Azure and now Google Compute Engine, which have all been engaging in a price war. With no service to offer on top of its storage, Nirvanix did not stand a great chance of differentiating from such large competitors.",
+    "prompt": "How did cloud giants commoditize the storage market and kill Nirvanix?",
+    "completion": "Nirvanix was killed by cloud storage commoditization: 1) Amazon Web Services, Microsoft Azure, and Google Cloud Engine engaged in a price war that commoditized storage, 2) Nirvanix offered pure storage without additional services to differentiate from large competitors, 3) The market became increasingly commoditized over five years, squeezing out smaller players, 4) Without value-added services on top of storage, they couldn't compete on price or features against the tech giants' massive scale."
+  },
+  {
+    "company": "Optiva",
+    "funding": "$30M",
+    "category": "Total funding from $25M - $50M",
+    "investors": [
+      "AltoTech Ventures",
+      "NGEN Partners"
+    ],
+    "failure_reason": "Like most other nanotech companies, Optiva took a while to get its product out. It shifted focus, its technology changed, as did the market. Its 'polarizer' technology was supposed to be sold for use in wrist watch, calculator and PDA displays, but as VentureWire reports, suddenly the people who already made the displays found a glut of scrap material, which was also suitable, thus resulting in a rapid drop in market prices.",
+    "prompt": "How did market changes destroy Optiva's nanotech business?",
+    "completion": "Optiva was destroyed by rapid market changes: 1) Like many nanotech companies, they took too long to bring their polarizer technology to market, 2) During development, their target markets (watches, calculators, PDAs) evolved significantly, 3) Display manufacturers found cheaper alternatives using scrap materials that served the same purpose, 4) Market prices dropped rapidly due to alternative materials, making their expensive nanotech solution commercially unviable, showing how long development cycles can miss market windows."
+  },
+  {
+    "company": "Oryx Vision",
+    "funding": "$67M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "Bessemer Venture Partners",
+      "Trucks VC",
+      "Maniv Mobility"
+    ],
+    "failure_reason": "Currently, the architecture of the autonomous vehicle is simply not converging, so a venture-backed company will not be able to justify the investment that will still be needed. There was a lot of deliberation and investors were prepared to keep going, but we saw that LIDAR was becoming a game of giants and as a small company, it would be difficult to continue operating and return investments.",
+    "prompt": "Why did LIDAR startup Oryx Vision shut down?",
+    "completion": "Oryx Vision shut down because LIDAR became dominated by giants: 1) The autonomous vehicle technology architecture wasn't converging quickly enough to justify continued investment, 2) LIDAR technology became a 'game of giants' where small companies couldn't compete, 3) Despite investor willingness to continue funding, management recognized they couldn't achieve returns competing against larger players, 4) The capital requirements for LIDAR development exceeded what venture-backed startups could sustainably invest."
+  },
+  {
+    "company": "Panda TV",
+    "funding": "$194M",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "Bright Stone",
+      "HanFor Holdings",
+      "Woken Asset Management"
+    ],
+    "failure_reason": "Panda TV announced that the company was in a potential bankruptcy, posting an image of its panda mascot facing a sunset, alongside the word 'Bye.' The reasons behind this bankruptcy have not yet been officially published.",
+    "prompt": "What led to Panda TV's sudden bankruptcy?",
+    "completion": "Panda TV suddenly declared bankruptcy without providing detailed reasons: 1) The Chinese game streaming platform announced potential bankruptcy with just a farewell image, 2) Despite raising $194M, the company provided no official explanation for the failure, 3) The sudden shutdown suggests either rapid cash burn or unexpected market challenges, 4) The lack of transparency about failure reasons indicates possible internal issues or competitive pressures in China's streaming market."
+  },
+  {
+    "company": "Pearl Automation",
+    "funding": "$50M",
+    "category": "Total funding from $25M - $50M",
+    "investors": [
+      "Accel Partners",
+      "Shasta Ventures",
+      "Venrock"
+    ],
+    "failure_reason": "Early product sales disappointed, which was exacerbated by a high burn rate. The Pearl Automation team received several 'acqui-hire' offers, but opted instead to shut down and part ways. Pearl was founded in 2014 by three ex-Apple iPod engineers, and hired dozens of other ex-Apple employees. It eventually settled on the wireless rear-view camera as a first step in developing autonomous driving technology.",
+    "prompt": "Why did ex-Apple engineers' automotive startup Pearl Automation fail?",
+    "completion": "Pearl Automation failed due to disappointing sales and high costs: 1) Despite being founded by ex-Apple iPod engineers and hiring many Apple alumni, their wireless rear-view camera products sold poorly, 2) High burn rate combined with low sales created unsustainable unit economics, 3) Multiple acqui-hire offers were rejected, suggesting management optimism that proved unfounded, 4) The automotive market proved more challenging than consumer electronics, even for experienced Apple engineers."
+  },
+  {
+    "company": "PepperTap",
+    "funding": "$52M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "Innoven Capital",
+      "Sequoia Capital India"
+    ],
+    "failure_reason": "PepperTap – which operated in a high-competition, low-margin market – decided to shut down its main e-grocery business after months of rapid expansion showed no signs of profitability and deep discounts led to high cash burn. 'Losing cash on every order (no matter how small or how controlled or how goal-oriented the burn) meant one day we will run out of cash – perhaps we could slow down the process but mathematically speaking, this was a certainty,' PepperTap co-founder Navneet Singh said while announcing the shutdown.",
+    "prompt": "How did unit economics doom Indian grocery delivery startup PepperTap?",
+    "completion": "PepperTap was doomed by unsustainable unit economics: 1) The e-grocery company lost money on every order despite attempts to control burn rate, 2) Rapid expansion in a high-competition, low-margin market led to deep discounts and high cash burn, 3) Co-founder Navneet Singh acknowledged that losing money per order made running out of cash a mathematical certainty, 4) Despite backing from Sequoia Capital India, the fundamental economics of grocery delivery at scale proved unsustainable in the Indian market."
+  },
+  {
+    "company": "Pets.com",
+    "funding": "$110M",
+    "category": "Total funding from $25M - $50M",
+    "investors": [
+      "Hummer Winblad Partners",
+      "Bowman Capital"
+    ],
+    "failure_reason": "Almost from the start, Pets.com was a losing proposition, despite its backers' talk about how much money consumers lavish on their pets. Many pet supplies are heavy and costly to ship – cat litter, cans of dog food – and the firm couldn't sell enough higher-profit items such as pet toys. Moreover, to attract customers, the company depended heavily on discounts, said Jupiter Communications analyst Heather Dougherty. As a result, the firm was selling supplies below cost the entire time.",
+    "prompt": "What were the fundamental problems with Pets.com's business model?",
+    "completion": "Pets.com failed due to fundamental flaws in its business model: 1) High shipping costs for heavy, low-margin pet supplies like cat litter and dog food, 2) Inability to sell enough high-margin items like pet toys to offset shipping costs, 3) Heavy reliance on discounts to attract customers, resulting in selling products below cost, 4) The unit economics never worked despite the large pet market, making the company unprofitable from the start."
+  },
+  {
+    "company": "Phytelligence",
+    "funding": "$20M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "Cowles Company",
+      "Rio Investment Partners",
+      "WRF Capital"
+    ],
+    "failure_reason": "In its lawsuit, Phytelligence claimed that [Washington State University] wrongly blocked the company from commercializing Cosmic Crisp [apples]. In its own counter-lawsuit, WSU alleged that Phytelligence improperly sold thousands of Cosmic Crisp trees to a grower. A judge dismissed Phytelligence's case against WSU in July. The role of the dispute in the decision to shut down the company isn't clear, but the closure is an about-face for a company that just 14 months ago was raising millions and hiring rapidly.",
+    "prompt": "How did a legal dispute with Washington State University contribute to Phytelligence's failure?",
+    "completion": "Phytelligence was damaged by a legal battle with Washington State University: 1) The agricultural tech company sued WSU claiming they wrongly blocked commercialization of Cosmic Crisp apples, 2) WSU counter-sued alleging Phytelligence improperly sold thousands of Cosmic Crisp trees, 3) A judge dismissed Phytelligence's case, likely costing them significant legal fees, 4) The legal dispute occurred just 14 months after rapid growth and fundraising, suggesting the lawsuit distracted from business operations and damaged partnerships."
+  },
+  {
+    "company": "Pillow",
+    "funding": "$21M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "Elevation Capital",
+      "Accel",
+      "Quona Capital"
+    ],
+    "failure_reason": "Singapore-headquartered Pillow plans to discontinue all its services and app in the coming weeks, it warned customers Friday, citing regulatory uncertainty that has claimed countless other crypto startups in recent quarters. Pillow allowed customers to invest in Bitcoin, stablecoins and altcoins, and promised returns of up to 18% — a figure that dropped to 14% as the market started to cool. The move follows Pillow's chief rival Flint shutting down its services last month due to what it termed as 'regulatory hurdles' and 'negative market sentiment.'",
+    "prompt": "What regulatory challenges killed crypto investment platform Pillow?",
+    "completion": "Pillow was killed by crypto regulatory uncertainty: 1) Regulatory uncertainty in multiple jurisdictions made their crypto investment platform unsustainable, 2) They had to reduce promised returns from 18% to 14% as market conditions deteriorated, 3) Their main competitor Flint also shut down due to similar regulatory hurdles and negative market sentiment, 4) The broader crypto crackdown made it impossible for yield-based crypto platforms to operate safely across different regulatory environments."
+  },
+  {
+    "company": "Pixelon",
+    "funding": "$35M",
+    "category": "Total funding from $25M - $50M",
+    "investors": [
+      "Advanced Equities"
+    ],
+    "failure_reason": "'In April, Pixelon employees and investors were surprised to learn that the real name of Michael Fenne, the company's founder and former chairman, was Paul Stanley. And they were more shocked to find out that Paul Stanley had been on Virginia's most-wanted list for several years, after skipping bail following a stock-swindling conviction.'",
+    "prompt": "What criminal background destroyed Pixelon?",
+    "completion": "Pixelon was destroyed when the founder's criminal identity was revealed: 1) Founder 'Michael Fenne' was actually Paul Stanley, a fugitive on Virginia's most-wanted list, 2) Stanley had skipped bail following a stock-swindling conviction, 3) Employees and investors were shocked to discover they had been working with a wanted criminal, 4) The revelation of the founder's fraudulent identity and criminal background made the video streaming company unsustainable and destroyed investor and employee confidence."
+  },
+  {
+    "company": "Quantopian",
+    "funding": "$51M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "Bessemer Venture Partners",
+      "Andreessen Horowitz",
+      "Khosla Ventures"
+    ],
+    "failure_reason": "To some pros, the end of Quantopian was inevitable. Could amateurs really figure out anything they couldn't? Even high-priced hedge fund managers are struggling to outwit the market these days. Quantopian's bet was that this kind of elitism might give it a competitive edge. By offering everyone on the internet free access to data, tutorials, and tools, it sought to beat the army of Ivy League Ph.D.s by picking the best quant strategies from the world's untapped geniuses.",
+    "prompt": "Why did crowdsourced trading platform Quantopian fail?",
+    "completion": "Quantopian's crowdsourced trading model didn't work: 1) The premise that amateur traders could outperform professional quants proved false, 2) Even highly paid hedge fund managers struggle to consistently beat markets, 3) Their democratized approach to quantitative trading couldn't generate superior returns, 4) The 'wisdom of crowds' concept failed in the highly efficient financial markets, where professional advantages remain significant despite technological access."
+  },
+  {
+    "company": "Quibi",
+    "funding": "$1.75B",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "Goldman Sachs",
+      "NBC Universal",
+      "JPMorgan Chase"
+    ],
+    "failure_reason": "Quibi Holdings LLC is shutting down a mere six months after launching its streaming service, a crash landing for a once highly touted startup that attracted some of the biggest names in Hollywood and had looked to revolutionize how people consume entertainment. 'Our failure was not for lack of trying,' founder Jeffrey Katzenberg and Chief Executive Meg Whitman said in an open letter to employees and investors. 'We've considered and exhausted every option available to us.'",
+    "prompt": "How did Quibi fail despite raising $1.75 billion?",
+    "completion": "Quibi failed spectacularly despite raising $1.75 billion, shutting down just six months after launch. The mobile-first streaming service, founded by Jeffrey Katzenberg and led by CEO Meg Whitman, was intended to revolutionize entertainment consumption with short-form premium content. However, the concept failed to gain market traction, and the founders admitted they had 'exhausted every option available' to save the company."
+  },
+  {
+    "company": "Quillion Tech",
+    "funding": "$178M",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "Lightspeed China Partners"
+    ],
+    "failure_reason": "Quillion Technology, which has been in operation for more than half a year and was working on general-purpose computing and data center solutions, informed all staff on August 5 that the company would cease its operations. According to LatePost, the letter for all employees said that Quillion will pay their August salary in full, but starting September 5, it will only pay the salary according to the minimum wage standard in Shanghai. A person close to the company commented that 'Quillion has not announced its dissolution, but it is no different from dissolution.'",
+    "prompt": "What happened to Quillion Tech?",
+    "completion": "Quillion Tech effectively shut down after only operating for about half a year: 1) The company ceased operations despite working on general-purpose computing and data center solutions, 2) Employees were informed they would only receive minimum wage starting in September, effectively forcing resignations, 3) While not officially dissolved, sources described the situation as 'no different from dissolution,' 4) The rapid failure suggests fundamental issues with their business model or market conditions in China's tech sector."
+  },
+  {
+    "company": "RatePoint",
+    "funding": "$24.5M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      ".406 Ventures",
+      "Prism VentureWorks"
+    ],
+    "failure_reason": "RatePoint was venture capital funded. According to a press release back in 2009, the company reported at the time that it had 'closed a $10 million Series B round of funding led by Castile Ventures of Waltham, Mass., with participation by existing investors .406 Ventures and Prism VentureWorks.' Which goes to show … venture funding is no guarantee of business success.",
+    "prompt": "What does RatePoint's failure teach about venture funding?",
+    "completion": "RatePoint's failure demonstrates that venture funding doesn't guarantee success: 1) Despite raising $24.5M in multiple rounds including a $10M Series B, the review platform still failed, 2) Having reputable VCs like .406 Ventures and Prism VentureWorks wasn't enough to ensure viability, 3) The company shows that even well-funded startups can fail if they don't achieve product-market fit, 4) Venture capital provides resources but doesn't solve fundamental business model or execution challenges."
+  },
+  {
+    "company": "Raze Therapeutics",
+    "funding": "$24M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "MPM Capital",
+      "Atlas Venture",
+      "Partners Innovation Fund"
+    ],
+    "failure_reason": "Seeded in part by Atlas Venture, the company was focused on cancer anabolic metabolism, specifically mitochondrial one-carbon energetics. The space has emerged recently as a major driver of cancer proliferation, survival, and biomass accumulation. But apparently the tech was too tough to continue. 'Although it made intriguing progress, the underlying cancer metabolism biology was too complicated to warrant further investment,' wrote Bruce Booth, partner at Atlas, in a recent portfolio update.",
+    "prompt": "Why did Atlas Venture shut down Raze Therapeutics?",
+    "completion": "Atlas Venture shut down Raze Therapeutics because the science was too complex: 1) The company focused on cancer metabolism, specifically mitochondrial one-carbon energetics, 2) While they made intriguing scientific progress, the underlying biology proved too complicated for commercial development, 3) Atlas Venture partner Bruce Booth determined the complexity didn't warrant further investment, 4) This shows how even promising scientific advances can be too complex to translate into viable treatments, leading sophisticated biotech investors to cut losses."
+  },
+  {
+    "company": "Reali",
+    "funding": "$292M",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "Akkadian Ventures",
+      "Signia Venture Partners",
+      "Zeev Ventures"
+    ],
+    "failure_reason": "Startups that are catering to homebuyers are struggling as interest rates and inflation have climbed and inventory shortages continue in many markets. The latest casualty in the space is Reali, which announced that it has begun a shutdown and will be laying off most of its workforce. 'The challenging real estate and financial market conditions and unfavorable capital-raising environment' led to the decision to wind down operations.",
+    "prompt": "What market conditions led to Reali's failure?",
+    "completion": "Reali failed due to adverse market conditions: 1) Rising interest rates that reduced homebuyer demand, 2) High inflation impacting the real estate market, 3) Ongoing housing inventory shortages in key markets, 4) Unfavorable capital-raising environment that prevented securing additional funding, 5) Overall challenging real estate and financial market conditions that made their business model unsustainable."
+  },
+  {
+    "company": "Recycling Technologies",
+    "funding": "$16M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "InterChem",
+      "Mirova",
+      "Neste"
+    ],
+    "failure_reason": "Recycling Technologies, a plastics recycling technology provider based in the United Kingdom, has announced that it has ceased operations. According to a statement from Recycling Technologies, the company has entered into administration since it was unable to secure investments necessary to advance its technology.",
+    "prompt": "Why did plastics recycling startup Recycling Technologies enter administration?",
+    "completion": "Recycling Technologies entered administration due to funding shortfall: 1) The UK-based plastics recycling technology company couldn't secure necessary investments to advance their technology, 2) Despite backing from companies like Neste and environmental focus from Mirova, they couldn't raise follow-on funding, 3) The company had to cease operations and enter administration, 4) This shows how even environmentally beneficial technologies can fail without sufficient capital to reach commercial scale."
+  },
+  {
+    "company": "Roadstar.ai",
+    "funding": "$128M",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "CMB International Capital",
+      "Shenzhen Capital Group",
+      "Vision Plus Capital"
+    ],
+    "failure_reason": "In an announcement published on WeChat in late January, Tong and Heng announced they had fired Zhou, accusing him of receiving kickbacks during fundraising, deliberately hiding codes, and putting false data into a government regulatory report.",
+    "prompt": "What internal conflicts destroyed Roadstar.ai?",
+    "completion": "Roadstar.ai was destroyed by internal founder conflicts: 1) Co-founders Tong and Heng fired fellow co-founder Zhou for alleged misconduct, 2) Zhou was accused of receiving kickbacks during fundraising rounds, 3) He allegedly deliberately hid important code from other founders, 4) Zhou was also accused of submitting false data to government regulators, 5) These serious internal conflicts and potential fraud allegations made the autonomous driving startup unsustainable despite $128M in funding."
+  },
+  {
+    "company": "Sand 9",
+    "funding": "$55.5M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "Commonwealth Capital Ventures",
+      "Flybridge Capital Partners",
+      "General Catalyst"
+    ],
+    "failure_reason": "It was revealed last month that Sand 9's website and phone numbers were no longer operating and that its former CEO and other executives had left the company. Consultant Mark Sherwood told eeNews Europe that although the piezoelectric technology showed promise Sand 9 had hit technical issues amidst changing markets and effectively outlasted investors' patience. The Sand9 executive team is gone but the meat of the company was indeed the MEMS technology that had been in development for many years.",
+    "prompt": "How did technical challenges and changing markets kill MEMS startup Sand 9?",
+    "completion": "Sand 9 was killed by technical issues and market changes: 1) The MEMS technology company hit technical challenges with their piezoelectric technology despite it showing promise, 2) Changing markets made their long-term technology development less viable, 3) They effectively outlasted investors' patience for continued development funding, 4) Analog Devices acquired their technology assets, suggesting the IP had value but the standalone company couldn't overcome technical and market timing challenges."
+  },
+  {
+    "company": "Savaje Technologies",
+    "funding": "$113.7M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "VantagePoint Venture Partners",
+      "RRE Ventures"
+    ],
+    "failure_reason": "Now the company is close to closing its doors as it seeks additional funding from venture capitalists. The company, which employs about 140 people, had furloughed its developers and some other employees early in October, asking them to use up their vacation time or go on unpaid leave while Savaje moved to find its way out of its financial troubles.",
+    "prompt": "How did Savaje Technologies handle its financial crisis?",
+    "completion": "Savaje Technologies managed their financial crisis poorly: 1) Despite raising $113.7M, the mobile OS company ran into severe financial troubles, 2) They furloughed developers and key employees, asking them to use vacation time or take unpaid leave, 3) The company tried to raise additional VC funding while operating with skeleton staff, 4) Furloughing critical technical talent while seeking funding showed desperation and likely damaged their ability to demonstrate progress to potential investors."
+  },
+  {
+    "company": "ScaleFactor",
+    "funding": "$104M",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "Bessemer Venture Partners",
+      "Canaan Partners",
+      "Coatue Management"
+    ],
+    "failure_reason": "Though the pandemic may have been a death knell, ScaleFactor was on rocky ground long before. Technology startups are often rewarded for a 'fake it 'til you make it' mentality by venture capital firms willing to throw money at a product until it meets expectations. But ScaleFactor used aggressive sales tactics and prioritized chasing capital instead of building software that ultimately fell far short of what it promised. When customers fled, executives tried to obscure the real damage.",
+    "prompt": "What underlying issues caused ScaleFactor's failure?",
+    "completion": "ScaleFactor failed due to fundamental execution problems: 1) The company prioritized fundraising over actually building functional software, 2) They used aggressive sales tactics and overpromised on product capabilities, 3) The software fell far short of what was promised to customers, 4) When customers began leaving, executives attempted to hide the real damage rather than fix underlying issues, 5) While COVID-19 was the final blow, the company was already in trouble due to poor product-market fit."
+  },
+  {
+    "company": "Seatwave",
+    "funding": "$62.6M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "Accel",
+      "Ticketmaster Entertainment"
+    ],
+    "failure_reason": "We're shutting down our sites GET ME IN! and Seatwave. That's right, we've listened and we hear you: secondary sites just don't cut it anymore and you're tired of seeing others snap up tickets just to resell for a profit. All we want is you, the fan, to be able to safely buy tickets to the events you love. So, we're launching a fan-to-fan ticket exchange on Ticketmaster where you can easily buy tickets or sell tickets you can't use through our website at the price originally paid or less.",
+    "prompt": "Why did Ticketmaster shut down secondary ticket sites Seatwave?",
+    "completion": "Ticketmaster shut down Seatwave due to consumer backlash against ticket reselling: 1) Fans were tired of seeing people buy tickets just to resell for profit, 2) Secondary ticket sites 'just don't cut it anymore' according to customer feedback, 3) Ticketmaster decided to integrate ticket reselling directly into their platform at face value or less, 4) This shows how consumer sentiment against ticket scalping made standalone secondary markets politically and commercially untenable."
+  },
+  {
+    "company": "Seeker Biologics",
+    "funding": "$24M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "5AM Ventures"
+    ],
+    "failure_reason": "An early-stage biotech backed by venture capital firm 5AM Ventures appears to have shut down. Multiple employees of Seeker Biologics, a startup behind biologics for autoimmune and inflammatory diseases, posted on social media last week that the company was winding down operations. 'It can be challenging to witness a talented team dedicated to discovering new medicines fall short of their ambitious goals in a demanding market,' Seeker's vice president and head of biology, Jarrat Jordan, wrote in a LinkedIn post. 'However, science doesn't always take us in the direction we expect, nor does it adhere to our timeline.'",
+    "prompt": "Why did biotech startup Seeker Biologics wind down?",
+    "completion": "Seeker Biologics wound down because science didn't meet expectations: 1) Despite a talented team working on biologics for autoimmune diseases, they couldn't achieve their ambitious scientific goals, 2) The science didn't progress in the expected direction or timeline, 3) Biotech markets are particularly demanding, requiring both scientific breakthroughs and commercial viability, 4) Even with backing from specialized biotech VC 5AM Ventures, the inherent uncertainty of drug discovery proved insurmountable."
+  },
+  {
+    "company": "Sequoia Communications",
+    "funding": "$54M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "Tallwood Ventures",
+      "BlueRun Ventures"
+    ],
+    "failure_reason": "Luis Arzubi, a general partner at Tallwood Ventures, told EE Times that Sequoia (San Diego) was forced to cease operations despite having working parts and customers because it failed to raise the needed capital to continue. The company and its investors 'basically had no choice,' he said.",
+    "prompt": "Why was networking equipment maker Sequoia Communications forced to cease operations?",
+    "completion": "Sequoia Communications was forced to cease operations despite having working products: 1) The networking equipment company had working technology and customers, 2) They failed to raise the additional capital needed to continue operations, 3) Investor Tallwood Ventures said they 'basically had no choice' but to shut down, 4) This shows how even companies with viable products and customers can fail if they can't secure sufficient funding to sustain operations."
+  },
+  {
+    "company": "Seven Dreamers Laboratories",
+    "funding": "$104M",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "Panasonic Semiconductor Solutions",
+      "Daiwa House Group",
+      "KKR"
+    ],
+    "failure_reason": "Clearly, the product was too ambitious. Seven Dreamers had planned a simpler, but still potentially-impressive version that merely folded and sorted clothes. The first-gen model still required a complex combination of robotics, image analysis and artificial intelligence to achieve its goals, however.",
+    "prompt": "Why did the Laundroid robot company fail?",
+    "completion": "Seven Dreamers Laboratories failed because their Laundroid robot was overly ambitious: 1) The automated laundry-folding robot required complex robotics, image analysis, and AI that proved too difficult to execute reliably, 2) Even their simplified version that just folded and sorted clothes was technologically challenging, 3) The product complexity made it commercially unviable despite backing from major companies like Panasonic and KKR, 4) The gap between ambitious vision and technical feasibility led to the company's bankruptcy."
+  },
+  {
+    "company": "Shoes of Prey",
+    "funding": "$23.5M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "Blackbird Ventures",
+      "Blue Sky Alternative Investments"
+    ],
+    "failure_reason": "Customised footwear e-tailer Shoes Of Prey has ceased trading. Major investor Blue Sky Alternative Investments said the decision to stop taking new orders was made to protect Shoes Of Prey's assets and avoid incurring more debt.",
+    "prompt": "Why did customized footwear company Shoes of Prey cease trading?",
+    "completion": "Shoes of Prey ceased trading to protect assets and avoid more debt: 1) The customized footwear e-commerce company stopped taking new orders, 2) Major investor Blue Sky Alternative Investments made the decision to protect the company's remaining assets, 3) They wanted to avoid incurring additional debt that would worsen the situation, 4) The orderly shutdown suggests the custom shoe business model wasn't sustainable despite consumer interest in personalized products."
+  },
+  {
+    "company": "Shyp",
+    "funding": "$62M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "Homebrew",
+      "Sherpa Capital",
+      "Kleiner Perkins Caufield & Byers",
+      "Slow Ventures",
+      "Otter Rock Capital",
+      "Machine Shop Ventures"
+    ],
+    "failure_reason": "Shyp had bet everything on sustainability rather than expansion. It drastically downsized itself last July, when it ended service in Chicago, Los Angeles, and New York, laid off much of its staff, and dedicated itself to reaching profitability in its home market of San Francisco. According to Gibbon, the new, smaller Shyp began turning an operational profit last December. But the company still needed more funding to continue and was unable to secure it from venture capital firms, which have grown wary of the whole category of startups that provide on-demand services involving physical infrastructure.",
+    "prompt": "How did Shyp fail despite reaching operational profitability?",
+    "completion": "Shyp failed because they couldn't raise additional funding despite profitability: 1) They achieved operational profitability in San Francisco after drastically downsizing and exiting other markets, 2) VCs had become wary of on-demand services requiring physical infrastructure due to high capital needs, 3) The company needed additional funding to scale beyond their single profitable market, 4) Their pivot to sustainability over growth wasn't enough to convince investors that the on-demand shipping model was viable at scale."
+  },
+  {
+    "company": "Singulex",
+    "funding": "$219M",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "OrbiMed Advisors",
+      "Fisk Ventures",
+      "Prolog Ventures",
+      "Advantage Capital",
+      "GE Capital"
+    ],
+    "failure_reason": "During a two-week jury trial held in Charleston, South Carolina, the government introduced evidence that HDL and Singulex paid physicians remuneration disguised as processing and handling fees for each patient they referred to two blood testing laboratories. The government also introduced evidence that the kickback scheme resulted in physicians referring patients to HDL and Singulex for medically unnecessary tests, which were then billed to federal health care programs.",
+    "prompt": "Why did blood testing company Singulex fail?",
+    "completion": "Singulex failed due to illegal kickback schemes: 1) The company paid physicians disguised fees for patient referrals to their blood testing laboratories, 2) This resulted in medically unnecessary tests being performed and billed to federal healthcare programs, 3) Government prosecution exposed the fraudulent business practices during a jury trial, 4) The illegal kickback scheme undermined their business model and led to legal consequences, despite $219M in funding from reputable investors."
+  },
+  {
+    "company": "Solyndra",
+    "funding": "$1.22B",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "Redpoint Ventures",
+      "US Venture Partners"
+    ],
+    "failure_reason": "Even industry heavyweights such as China's Suntech Power Holdings Co Ltd and U.S.-based First Solar Inc are struggling with dwindling profits, while small, up-and-coming solar companies are finding it increasingly difficult to stay afloat. Solyndra said it was evaluating options, including a sale of the business and licensing its copper indium gallium selenide (CIGS) technology.",
+    "prompt": "What factors contributed to Solyndra's failure?",
+    "completion": "Solyndra failed due to broader industry challenges affecting the solar sector: 1) Industry heavyweights like Suntech Power and First Solar were struggling with declining profits, 2) Small solar companies found it increasingly difficult to compete and stay afloat, 3) The company's CIGS technology couldn't compete effectively in the changing solar market, 4) Despite $1.22B in funding (including significant government backing), market conditions made their business model unsustainable."
+  },
+  {
+    "company": "Sprig",
+    "funding": "$56.7M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "Greylock Partners",
+      "Social Capital",
+      "Sozo Ventures"
+    ],
+    "failure_reason": "'No question, I'm sad that the Sprig model did not work out,' CEO Gagan Biyani said in an email circulated to the app's users. 'The demand for Sprig's convenient, high-quality food was always incredibly high, but the complexity of owning meal production through delivery at scale was a challenge.' Sprig had raised $56.7 million to cook and deliver its own gourmet meals in the San Francisco area, but insiders said it was losing six figures monthly and could not expand the service into other cities.",
+    "prompt": "Why did on-demand meal delivery startup Sprig fail despite high demand?",
+    "completion": "Sprig failed because operational complexity outweighed high demand: 1) Despite incredibly high demand for their convenient, high-quality food, they couldn't make the economics work, 2) The complexity of owning meal production through delivery at scale proved too challenging, 3) They were losing six figures monthly and couldn't expand beyond San Francisco, 4) This shows how high customer demand isn't sufficient if the operational model is too complex and capital-intensive to scale profitably."
+  },
+  {
+    "company": "Starsky Robotics",
+    "funding": "$20M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "Y Combinator",
+      "Trucks VC",
+      "Shasta Ventures"
+    ],
+    "failure_reason": "In 2015, I got obsessed with the idea of driverless trucks and started Starsky Robotics. In 2016, we became the first street-legal vehicle to be paid to do real work without a person behind the wheel. In 2018, we became the first street-legal truck to do a fully unmanned run, albeit on a closed road. In 2019, our truck became the first fully-unmanned truck to drive on a live highway. And in 2020, we're shutting down. Timing, more than anything else, is what I think is to blame for our unfortunate fate. Our approach, I still believe, was the right one but the space was too overwhelmed with the unmet promise of AI to focus on a practical solution.",
+    "prompt": "Why did autonomous trucking pioneer Starsky Robotics fail despite technical milestones?",
+    "completion": "Starsky Robotics failed due to poor market timing despite technical leadership: 1) They achieved multiple industry firsts in autonomous trucking, including first paid unmanned work and highway driving, 2) The autonomous vehicle space was overwhelmed with overhyped AI promises, making practical solutions less attractive to investors, 3) Their practical, incremental approach was overshadowed by companies promising full autonomy, 4) Market timing was wrong - the industry wasn't ready for their realistic but less flashy technology approach."
+  },
+  {
+    "company": "Stay Alfred",
+    "funding": "$62M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "Nine Four Ventures"
+    ],
+    "failure_reason": "Stay Alfred had raised around $60 million in funding, with its most recent round coming in at $47 million in October 2018. Allen said he and his leadership had been seeking new funding of up to $30 million as recently as March [2020] but the global lockdown caused by the coronavirus pandemic, coupled with investor interest failing to materialise into an offer, forced the startup's hand.",
+    "prompt": "How did COVID-19 kill Stay Alfred?",
+    "completion": "COVID-19 destroyed Stay Alfred's short-term rental business: 1) The global lockdown eliminated demand for their furnished apartment rentals, 2) They were actively seeking $30M in new funding when the pandemic hit, 3) Investor interest completely evaporated as travel and hospitality sectors collapsed, 4) The timing was particularly devastating as they had just raised $47M in 2018 but burned through cash before the pandemic recovery."
+  },
+  {
+    "company": "Stratoscale",
+    "funding": "$69M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "Battery Ventures",
+      "Bessemer Venture Partners",
+      "Cisco Investments",
+      "Intel Capital",
+      "Qualcomm Ventures"
+    ],
+    "failure_reason": "We built something amazing but the merger was not successful. The product that we developed was great and right, if it will be part of a larger organization. We think there has been a technological switch in which the giants dictate the direction of the market and we gave more power to the traditional players.",
+    "prompt": "Why did cloud infrastructure startup Stratoscale shut down?",
+    "completion": "Stratoscale failed because tech giants consolidated the market: 1) Despite building quality cloud infrastructure technology, they couldn't compete as an independent company, 2) Large technology companies began dictating market direction, squeezing out smaller players, 3) A failed merger attempt left them without strategic options, 4) Their technology was better suited for integration into a larger organization rather than standalone operation, showing how market consolidation can kill even well-funded startups."
+  },
+  {
+    "company": "Summation Bio",
+    "funding": "$24M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "RA Capital Management"
+    ],
+    "failure_reason": "Summation Bio is shutting down after just five years in existence. The Somerville biotech had been developing non-viral gene therapies for a variety of diseases. RA Capital managing partner Peter Kolchinsky confirmed the closure in an email: 'We had a hypothesis, one of many, so we formed and capitalized a company to run the experiment, recruited great people, ran the experiment properly, got an answer, and now great people and residual capital will work on other worthy hypotheses and we are enriched by the lessons we learned, which is basically our whole job in a nutshell, except sometimes the experiments are positive and generate a high return.'",
+    "prompt": "How does RA Capital view Summation Bio's failure?",
+    "completion": "RA Capital viewed Summation Bio's failure as a successful experiment: 1) They treated the biotech as a hypothesis test for non-viral gene therapies, 2) Despite spending $24M over five years, they considered it a proper scientific experiment that provided valuable data, 3) The investor emphasized that failure is part of their portfolio approach - testing multiple hypotheses to find winners, 4) This illustrates how sophisticated biotech investors accept failures as necessary costs of finding breakthrough treatments."
+  },
+  {
+    "company": "TerraLUX",
+    "funding": "$55.6M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "Access Venture Partners",
+      "Emerald Technology Ventures"
+    ],
+    "failure_reason": "A fast-growing maker of LED and smart lighting doesn't have enough cash to keep its own lights on. Longmont-based Terralux, now known as Sielo, ceased all operations on Aug. 3 and is now looking for a buyer to get things running again. Lundie said the shutdown was necessary because 'there wasn't money to continue.' He declined to answer further questions, citing ongoing negotiations.",
+    "prompt": "How did LED lighting company TerraLUX run out of cash despite fast growth?",
+    "completion": "TerraLUX ran out of cash despite being a fast-growing LED company: 1) The company ceased all operations because they didn't have money to continue, 2) Despite fast growth in LED and smart lighting markets, they couldn't maintain positive cash flow, 3) They immediately began looking for a buyer to restart operations, 4) The irony of an LED lighting company not having cash to 'keep its own lights on' highlights how rapid growth can mask underlying financial problems if unit economics don't work."
+  },
+  {
+    "company": "Tessera",
+    "funding": "$22M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "Paradigm",
+      "Delphi Ventures",
+      "FlamingoDAO"
+    ],
+    "failure_reason": "Tessera, a protocol that enables collective ownership and governance of non-fungible tokens (NFTs), is winding down its operations. Co-founder Andy Chorlian said that the decision was made after 'carefully analyzing possible market scenarios, our company structure and our financial situation.' Curated digital fine art marketplace Escher, one of the projects in the Tessera portfolio, will also be shutting down. 'As we really dug into the economic model for Escher, we saw that the targets we needed to hit to attain profitability – compared to the time and resource costs to scale there – just didn't add up or make good business sense.'",
+    "prompt": "Why did NFT ownership platform Tessera shut down?",
+    "completion": "Tessera shut down because their NFT economics didn't work: 1) After analyzing market scenarios and their financial situation, the collective NFT ownership model proved unviable, 2) Their curated art marketplace Escher couldn't reach profitability targets given the time and resources required to scale, 3) The economic model for fractional NFT ownership didn't make good business sense, 4) Despite backing from major crypto VC Paradigm, the NFT market downturn exposed fundamental flaws in their business model."
+  },
+  {
+    "company": "Theranos",
+    "funding": "$500M",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "BlueCross BlueShield Venture Partners",
+      "Rupert Murdoch",
+      "Walgreens"
+    ],
+    "failure_reason": "Once heralded as a revolutionary new way to conduct a blood test to detect myriad diseases, all with a single finger prick, the company is making preparations to close its operations. 'We are now out of time,' David Taylor, the company's chief executive and general counsel, informed investors in an email. Theranos's efforts are now focused on avoiding bankruptcy.",
+    "prompt": "What caused the downfall of Theranos?",
+    "completion": "Theranos collapsed after its revolutionary blood testing technology claims were exposed as fraudulent. The company, which promised to detect multiple diseases with a single finger prick, was revealed to have never actually developed the technology it claimed. Despite raising $500M from investors including Rupert Murdoch and Walgreens, the company ran out of time and money when the truth about its fake technology was uncovered, leading to efforts to avoid bankruptcy."
+  },
+  {
+    "company": "Tink Labs",
+    "funding": "$125M",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "SoftBank Group",
+      "FIH Mobile (Foxconn subsidiary)",
+      "Sinovation Ventures"
+    ],
+    "failure_reason": "Interviews conducted by the FT with several former employees have painted a picture of an organisation that pursued growth too aggressively, falling back to earth when its profits did not meet its vision. Founder Terence Kwok declined to comment on 'potential ongoing labour disputes' or 'business transaction details' in terms of outstanding bills. 'I am trying to do what I can, but a lot of things are now out of my hands,' he said.",
+    "prompt": "What caused Tink Labs' aggressive growth strategy to fail?",
+    "completion": "Tink Labs failed due to unsustainable aggressive growth: 1) The company pursued expansion too aggressively without corresponding profit generation, 2) Actual profits fell far short of the company's ambitious vision and growth targets, 3) Outstanding bills and labor disputes indicated serious cash flow problems, 4) Founder Terence Kwok acknowledged losing control of the situation, suggesting the aggressive growth strategy ultimately backfired despite SoftBank backing."
+  },
+  {
+    "company": "TrueSAN Networks",
+    "funding": "$30M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "JT Venture Partners",
+      "Spring Creek Partners"
+    ],
+    "failure_reason": "A turnaround plan that founder and CEO Tom Isakovich presented to its board of directors last week failed to convince the company's backers to stump up more cash.",
+    "prompt": "What caused TrueSAN Networks to shut down?",
+    "completion": "TrueSAN Networks shut down because: 1) The founder's turnaround plan failed to convince the board and investors, 2) Existing backers refused to provide additional funding needed for recovery, 3) The storage networking company couldn't demonstrate a viable path forward to investors, 4) Without new capital injection, the company had no choice but to cease operations, showing how dependent startups are on continued investor confidence."
+  },
+  {
+    "company": "Underground Cellar",
+    "funding": "$16M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "Forefront Venture Partners",
+      "Y Combinator",
+      "Golden Ventures"
+    ],
+    "failure_reason": "Underground Cellar, a San Francisco-based company, could easily be a wine enthusiast's dream: for free, customers could buy and store up to 500 bottles in the company's 'temperature-controlled CloudCellar' in Napa Valley and ship them (also for free) whenever they wanted. In late April, the wine company abruptly halted operations, and, a few days later, filed for Chapter 7 bankruptcy. Underground Cellar owes nearly $25 million worth of wine and other debts, and some former customers are now questioning whether the CloudCellar even exists.",
+    "prompt": "What questions arose about Underground Cellar's wine storage business model?",
+    "completion": "Underground Cellar's bankruptcy raised questions about their entire business model: 1) The company promised free storage of up to 500 wine bottles in a 'temperature-controlled CloudCellar' in Napa Valley, 2) They abruptly halted operations and filed for Chapter 7 bankruptcy owing $25M in wine and debts, 3) Former customers questioned whether the CloudCellar actually existed, 4) The business model of free storage and shipping appears to have been unsustainable, possibly relying on new customer deposits to fund operations."
+  },
+  {
+    "company": "Veoh Networks",
+    "funding": "$70.8M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "Shelter Capital Partners",
+      "Spark Capital"
+    ],
+    "failure_reason": "The venture was pronounced dead in a tweet today by Veoh board member Todd Dagres of Spark Capital, a Boston VC firm that invested in Veoh Networks. Dagres tweeted, 'Veoh is dead. Universal Music lawsuit was the main killer. Veoh won resoundingly but was mortally wounded by the senseless suit. Next.'",
+    "prompt": "How did a Universal Music lawsuit kill video platform Veoh Networks?",
+    "completion": "Veoh Networks was killed by a Universal Music lawsuit despite winning the case: 1) Board member Todd Dagres from Spark Capital announced the death via tweet, 2) Universal Music's lawsuit was identified as 'the main killer' even though Veoh won the case, 3) The legal victory was pyrrhic - they 'won resoundingly but were mortally wounded,' 4) The costs and distraction of fighting the 'senseless suit' drained resources and damaged the video platform business beyond recovery."
+  },
+  {
+    "company": "Vicis",
+    "funding": "$74M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "Rx3 Ventures",
+      "Trilogy Equity Partners",
+      "W Fund"
+    ],
+    "failure_reason": "'We were more successful than most at raising capital, but it took a tremendous amount of time and effort, effort that could have been applied to growing and running the business,' co-founder and ex-CEO Dave Marver said.",
+    "prompt": "What distracted football helmet maker Vicis from building their business?",
+    "completion": "Vicis failed because fundraising consumed too much management attention: 1) Despite successfully raising $74M, the fundraising process required excessive time and effort from leadership, 2) Management focus on capital raising diverted attention from product development and business operations, 3) The football helmet market required deep technical expertise and operational excellence, 4) This case illustrates how even successful fundraising can be counterproductive if it distracts from core business execution."
+  },
+  {
+    "company": "Volt Bank",
+    "funding": "$102M",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "Australian Finance Group",
+      "The Collection House"
+    ],
+    "failure_reason": "Volt's collapse is a further blow to a business model that the Australian government and regulators promoted heavily after a 2018 inquiry into misconduct in the finance industry led to a loosening of rules for new banking entrants. Rising inflation and interest rates this year have made it harder for online-only banks, called neobanks in Australia, to compete with established lenders, making fundraising much more difficult.",
+    "prompt": "What caused Australia's first neobank Volt to fail?",
+    "completion": "Volt Bank failed due to challenging market conditions for neobanks: 1) Rising inflation and interest rates made it difficult for online-only banks to compete with established lenders, 2) The challenging economic environment made fundraising much more difficult, 3) Despite regulatory support following banking industry reforms, the neobank model struggled in Australia, 4) As the first Australian neobank, Volt faced the additional challenge of proving the business model in an untested market."
+  },
+  {
+    "company": "WanderJaunt",
+    "funding": "$19M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "Founders Fund",
+      "Stonebridge Ventures",
+      "Global Founders Capital"
+    ],
+    "failure_reason": "A San Francisco short-term rental tech startup that branded itself as a competitor to Airbnb has abruptly shut down with barely a trace. WanderJaunt, headquartered in SoMa, no longer has an active website or Facebook page, nor does it have any active listings on partner websites. WanderJaunt's shuttering is just another symptom of the tech industry's big-time crunch, with investors reticent to put money into fledgling startups, large companies pausing hiring or laying off workers outright and the cryptocurrency industry collapsing.",
+    "prompt": "How did the tech industry crunch kill Airbnb competitor WanderJaunt?",
+    "completion": "WanderJaunt was killed by the broader tech industry downturn: 1) The Airbnb competitor abruptly shut down and removed all online presence, 2) Their closure coincided with investor reluctance to fund startups during the tech crunch, 3) The short-term rental market became particularly challenging as travel patterns changed, 4) Despite backing from Founders Fund, they couldn't survive the combination of tech industry headwinds and travel industry disruption."
+  },
+  {
+    "company": "Webvan Group",
+    "funding": "$275.2M",
+    "category": "Total funding from $25M - $50M",
+    "investors": [
+      "Sequoia Capital",
+      "Softbank Capital"
+    ],
+    "failure_reason": "'They spent so much money on all this infrastructure, which was basically part of their business model,' [stock analyst David] Kathman said. 'But what they hoped was going to be their advantage turned out to be their downfall. They got big fast, but size turned out to be an albatross when the demand wasn't there.' One reason demand fell short was that Webvan wasn't as convenient as it billed itself, Kathman said.",
+    "prompt": "What caused Webvan's collapse?",
+    "completion": "Webvan collapsed because: 1) Massive infrastructure investments that became a financial burden rather than a competitive advantage, 2) Rapid expansion without corresponding demand to support the scale, 3) The service was less convenient than advertised, failing to meet customer expectations, 4) The high fixed costs of their infrastructure model made them unsustainable when customer demand didn't materialize as projected."
+  },
+  {
+    "company": "Wellfount",
+    "funding": "$51M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "Arboretum Ventures",
+      "Elevate Ventures",
+      "Deerfield Management"
+    ],
+    "failure_reason": "The sky seemed the limit. 'It's a very scalable model,' CEO Eric Orme told IBJ in 2014. But last month, Wellfount quietly shut its doors, stopped answering its phones and pulled down its website. Several employees told IBJ the company closed on March 31 [2019] and laid them off. What happened at Wellfount remains unclear, though industry observers say the competitive landscape shifted for the company in recent years, as the vending machine-style medicine dispensers it helped pioneer became available from many vendors.",
+    "prompt": "What caused pharmacy automation company Wellfount's sudden closure?",
+    "completion": "Wellfount failed as their innovation became commoditized: 1) The company pioneered vending machine-style medicine dispensers but competitors copied the technology, 2) What was once a scalable, differentiated model became available from many vendors, 3) The competitive landscape shifted dramatically, eroding their first-mover advantage, 4) The sudden, secretive closure suggests either rapid competitive pressure or potential internal issues that management couldn't resolve."
+  },
+  {
+    "company": "Wyre",
+    "funding": "$28M",
+    "category": "Total funding from $25M - $50M",
+    "investors": [
+      "Great Oaks Venture Capital",
+      "Plug and Play Accelerator",
+      "Pantera Capital"
+    ],
+    "failure_reason": "At one point, Wyre was set to be acquired for over $1 billion. Now, it's shutting down. The crypto payments firm said Friday evening that it plans to wind down its operations, citing 'market conditions.' 'We made this decision to protect the best interest of our key stakeholders and customers,' the firm said in a tweet. 'This decision is not due to any regulatory agency direction. Wyre continues to secure customer assets.'",
+    "prompt": "How did crypto payments firm Wyre go from $1B acquisition to shutdown?",
+    "completion": "Wyre went from billion-dollar acquisition talks to shutdown due to crypto market collapse: 1) The company was once valued at over $1 billion for potential acquisition, 2) Deteriorating crypto market conditions made their payments business unsustainable, 3) They proactively chose to wind down to protect stakeholders rather than face regulatory action, 4) The dramatic fall illustrates how quickly crypto market conditions can destroy even well-positioned companies in the space."
+  },
+  {
+    "company": "Xinja",
+    "funding": "$100.6M",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "Equitise",
+      "World Investments"
+    ],
+    "failure_reason": "After a year marked by Covid-19 and an increasingly difficult capital-raising environment, and following a review of the market in Australia, Xinja has decided to withdraw the bank account and Stash (savings) account and cease being a bank. This was an incredibly hard decision. We hope to refocus the business in other areas such as our US share trading product, Dabble, should circumstances allow.",
+    "prompt": "What caused Australian neobank Xinja to exit banking?",
+    "completion": "Xinja exited banking due to: 1) COVID-19's impact on their business model and customer acquisition, 2) An increasingly difficult capital-raising environment that prevented securing necessary funding, 3) Challenging market conditions in Australia's competitive banking sector, 4) The decision to pivot away from banking and potentially focus on their US share trading product Dabble instead, showing how regulatory and market pressures can force strategic pivots."
+  },
+  {
+    "company": "YCloset",
+    "funding": "$70M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "Alibaba Group",
+      "Sequoia Capital China",
+      "SoftBank China Venture Capital"
+    ],
+    "failure_reason": "YCloset's collapse comes as investor sentiment sours toward the once-popular fashion rental market, which has proven to be capital intensive. As YCloset scaled, it struggled to keep up with high expenses in shipping, dry cleaning, and staying abreast of the latest fashion trends.",
+    "prompt": "What caused fashion rental startup YCloset to collapse?",
+    "completion": "YCloset collapsed due to unsustainable unit economics in fashion rental: 1) The fashion rental market proved more capital-intensive than anticipated, 2) High operational costs in shipping, dry cleaning, and inventory management became unmanageable at scale, 3) Staying current with fashion trends required constant expensive inventory updates, 4) Investor sentiment turned negative on the entire fashion rental sector, making additional funding difficult despite backing from Alibaba and Sequoia China."
+  },
+  {
+    "company": "Yunniao",
+    "funding": "$210M",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "GSR Ventures",
+      "Matrix Partners China",
+      "Sequoia Capital China"
+    ],
+    "failure_reason": "The manager of Yunniao's Weibo account used it to denounce the CEO, Hán Yì, encouraging people to sue him and claiming some employees haven't been paid for three months. More disgruntled employees quickly emerged, claiming they were forced to buy the company's financial products, and that drivers were required to pay a 4,000 yuan deposit before they could get jobs, but never had them refunded.",
+    "prompt": "What internal issues led to Yunniao's collapse?",
+    "completion": "Yunniao collapsed due to severe internal management issues: 1) Employees hadn't been paid for three months, leading to public denunciations of the CEO, 2) Workers were allegedly forced to buy the company's financial products, 3) Drivers were required to pay 4,000 yuan deposits that were never refunded, 4) The company's own social media manager publicly encouraged people to sue the CEO, indicating complete breakdown of internal governance and employee relations."
+  },
+  {
+    "company": "Zero Grocery",
+    "funding": "$16M",
+    "category": "Total funding from $15M - $25M",
+    "investors": [
+      "Sway Ventures",
+      "Gingerbread Capital",
+      "1984 Ventures"
+    ],
+    "failure_reason": "The Fresno County-based tech startup Zero Grocery announced it's shutting down in early March, a mere month after raising $12 million in funding. In a post on Twitter founder and CEO Zuleyka Strasner said the company was 'chronically undercapitalized.' Now a number of Bay Area food businesses tell the Chronicle the company owes them money. As Kneaded Bakery owner Iliana Berkowitz says the start up owes her East Bay business $6,000, and Starter Bakery's owner Brian Wood says he's owed $25,000.",
+    "prompt": "How did Zero Grocery fail just one month after raising $12M?",
+    "completion": "Zero Grocery failed dramatically despite recent funding: 1) The sustainable grocery startup shut down just one month after raising $12M, 2) The CEO admitted they were 'chronically undercapitalized' despite the recent fundraise, 3) Multiple Bay Area food suppliers reported being owed money, including $6,000 and $25,000 to individual bakeries, 4) The rapid failure suggests either the funding was insufficient for their burn rate or they faced immediate operational crises that made the business unsustainable."
+  },
+  {
+    "company": "Zume",
+    "funding": "$446M",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "SoftBank",
+      "SignalFire",
+      "SGH Capital"
+    ],
+    "failure_reason": "Robot pizza delivery startup that raised close to $500 million has shut down. The company was founded in 2015 and aimed to automate the pizza-making process, but suffered a series of technological difficulties. It then changed its business model and tried to become a sustainable-packaging manufacturer. According to The Information, Zume was 'insolvent,' and Sherwood Partners, a restructuring firm, had been instructed to sell the company's assets.",
+    "prompt": "What were the main reasons for Zume's failure?",
+    "completion": "Zume failed due to a combination of factors: 1) Technological difficulties in automating the pizza-making process despite raising close to $500 million, 2) Failed business model pivot to sustainable-packaging manufacturing, 3) The company became insolvent and was unable to sustain operations, ultimately requiring asset liquidation through a restructuring firm."
+  },
+  {
+    "company": "govWorks",
+    "funding": "$54M",
+    "category": "Total funding from $50M - $75M",
+    "investors": [
+      "Tallwood Ventures",
+      "BlueRun Ventures"
+    ],
+    "failure_reason": "govWorks, the brilliant idea, has been bungled badly in execution. Arrogant and overly aggressive, company officials have alienated key government partners and vendors. They have burned through millions in false starts and other fumbles, and it has lost time and ground to competitors. One of the co-founders has been forced out by the board and other senior executives. Now directors are looking for a more seasoned manager to help Isaza Tuzman run the company.",
+    "prompt": "How did poor execution and management issues destroy govWorks?",
+    "completion": "govWorks was destroyed by arrogant management and poor execution: 1) Despite having a brilliant idea for government services, they bungled the execution badly, 2) Arrogant and overly aggressive officials alienated key government partners and vendors, 3) They burned through millions on false starts and fumbles while losing ground to competitors, 4) Internal conflicts forced out co-founders and required board intervention to find seasoned management, showing how attitude and execution matter more than good ideas."
+  },
+  {
+    "company": "uBiome",
+    "funding": "$110M",
+    "category": "Total funding of $100M+",
+    "investors": [
+      "8VC",
+      "Y Combinator",
+      "Dentsu Ventures"
+    ],
+    "failure_reason": "The company's cofounders have resigned, it faces law enforcement scrutiny over its billing practices, it's currently in bankruptcy proceedings, and it filed a motion Tuesday to move from Chapter 11 to Chapter 7 bankruptcy, which would mean liquidating its assets and shutting down.",
+    "prompt": "What legal issues led to uBiome's bankruptcy?",
+    "completion": "uBiome went bankrupt due to serious legal and billing issues: 1) Law enforcement investigated the company's billing practices, suggesting potential fraud, 2) The co-founders resigned amid the legal scrutiny, 3) The company filed for Chapter 11 bankruptcy and then moved to Chapter 7 liquidation, 4) The legal problems around billing practices made the health testing startup unsustainable despite Y Combinator backing and $110M in funding."
+  }
+]
