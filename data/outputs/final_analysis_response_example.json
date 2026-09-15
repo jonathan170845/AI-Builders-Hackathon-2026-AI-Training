@@ -1,0 +1,721 @@
+{
+  "decision": "Launch an AI-powered SaaS platform for small businesses\nthat automates repetitive operational workflows.",
+  "scorecard": {
+    "assumption_count": 5,
+    "assessment_counts": {
+      "supported": 0,
+      "partially_supported": 0,
+      "challenged": 0,
+      "mixed": 0,
+      "insufficient_evidence": 5
+    },
+    "average_evidence_strength": 1.5,
+    "assumptions_with_user_evidence": 0,
+    "user_evidence_coverage_ratio": 0.0,
+    "assumptions_with_direct_evidence": 0,
+    "assumptions_with_insufficient_evidence": 5,
+    "evidence_coverage_ratio": 0.0,
+    "financial_flag_count": 1,
+    "high_severity_financial_flag_count": 1,
+    "has_negative_financial_signal": true
+  },
+  "assumptions": [
+    {
+      "assumption_id": "A1",
+      "assumption": "Small businesses have sufficient budget and willingness to pay for a subscription workflow automation tool, rather than relying on manual processes, spreadsheets, or free alternatives.",
+      "assessment": "insufficient_evidence",
+      "assessment_summary": "The provided evidence does not directly address whether small businesses have sufficient budget or willingness to pay for a subscription workflow automation tool. The company analogues show only that B2B SaaS companies, some serving small and medium businesses, exist; none include pricing, willingness-to-pay, churn, or outcome data. The failure evidence contains one adoption-related mechanism (unwillingness to switch from incumbent alternatives) but from a different product category (mobile payments), so it cannot confirm or refute the assumption.",
+      "evidence_strength_score": 1.6,
+      "evidence_direction": "neutral",
+      "score_breakdown": {
+        "directness": 0.3,
+        "decision_specificity": 0.0,
+        "observed_evidence": 0.3,
+        "comparability": 0.4,
+        "coverage": 0.2,
+        "source_quality": 0.4
+      },
+      "user_evidence_found": false,
+      "score_reasoning": [
+        "DIRECTNESS (0.3): No retrieved item tests willingness to pay or budget for a subscription workflow automation tool. Company analogues demonstrate only that B2B SaaS firms targeting SMBs exist; existence is not evidence of customer willingness to pay. The only tangentially relevant element is the Bling Nation failure documenting unwillingness to switch from incumbent alternatives, but that mechanism was observed in mobile payments, not software subscriptions, so it barely touches the assumption.",
+        "DECISION_SPECIFICITY (0.0): The decision text contains only a plan ('Launch an AI-powered SaaS platform...') with no pilot, customer conversations, pricing tests, letters of intent, transactions, or any measured context from this user's own operation. Company analogues are third-party context and receive no decision-specificity credit.",
+        "OBSERVED_EVIDENCE (0.3): The failure cases are observed outcomes with documented reasons, and the analogue listings are observed company facts, but none of this observed data captures the behavior the assumption concerns (small businesses paying, or refusing to pay, for workflow automation subscriptions). No churn, conversion, pricing, or revenue observations exist anywhere in the payload.",
+        "COMPARABILITY (0.4): The analogues share the B2B SaaS business model and, in two cases, an SMB target market, but carry no outcome, pricing, or retention data to transfer. The failure cases come from one-click checkout, daily deals, group buying, mobile payments, and flash sales — different products, customers, and mechanisms. Only the generic switching-resistance mechanism in Bling Nation is partially comparable.",
+        "COVERAGE (0.2): The assumption has three components — sufficient budget, willingness to pay for a subscription, and preference over manual processes/spreadsheets/free alternatives. None is directly addressed. Only the incumbent-alternative switching sliver is gestured at, and even that comes from an off-category failure.",
+        "SOURCE_QUALITY (0.4): Analogues and failures are named, categorized, and in some cases include funding amounts, investors, and attributed quotes, giving moderate traceability. However, no primary sources, metrics, or outcome documentation are supplied, and semantic similarity scores are retrieval relevance only, not evidence strength.",
+        "DIRECTION (neutral): The analogue existence signals neither confirm nor refute willingness to pay, and the single adoption-related failure mechanism is explicitly from a different product category and cannot be transferred to confirm or contradict this assumption. The evidence set is consistent with the reviewed assessment of insufficient_evidence."
+      ],
+      "evidence_gaps": [
+        "No evidence on small businesses' budgets, pricing sensitivity, or willingness to pay for subscription workflow automation tools specifically.",
+        "No evidence comparing paid subscription tools against manual processes, spreadsheets, or free alternatives for small businesses.",
+        "No churn, retention, conversion, or revenue data for any of the listed company analogues.",
+        "No outcome data (success or failure) is provided for the company analogues, so their presence in the evidence set cannot be read as validation of the assumption.",
+        "The historical failures concern other categories (one-click checkout, daily deals, group buying, mobile payments, e-commerce) and do not explicitly address small-business willingness to pay for workflow automation subscriptions; failure mechanisms from those cases cannot be transferred to this assumption beyond the adoption/switching mechanism noted."
+      ],
+      "grounding_valid": true
+    },
+    {
+      "assumption_id": "A2",
+      "assumption": "Small business operational workflows are repetitive and standardized enough that automating them delivers meaningful, measurable time or cost savings.",
+      "assessment": "insufficient_evidence",
+      "assessment_summary": "The provided evidence consists solely of software/IT vendor companies, four of which describe automation, low-code, or process digitization offerings. It shows that process-automation and digitization software products exist as a category, but contains no data on how repetitive or standardized small business operational workflows actually are, and no measured time or cost savings from automation. Two analogues explicitly target enterprise or medium-to-enterprise scaled businesses rather than small businesses, and no analogue description mentions small businesses. The assumption therefore cannot be confirmed or refuted with this evidence.",
+      "evidence_strength_score": 1.4,
+      "evidence_direction": "neutral",
+      "score_breakdown": {
+        "comparability": 0.4,
+        "coverage": 0.2,
+        "decision_specificity": 0.0,
+        "directness": 0.3,
+        "observed_evidence": 0.2,
+        "source_quality": 0.3
+      },
+      "user_evidence_found": false,
+      "score_reasoning": [
+        "The decision text contains only plans and intentions ('Launch an AI-powered SaaS platform...') with no pilot, survey, transaction, or measured operational data from the user's own context, so decision-specificity is zero.",
+        "The five company analogues establish only that process-automation, low-code, and digitization software vendors exist as a category; they contain no data on how repetitive or standardized small business workflows are and no measured time or cost savings from automation.",
+        "None of the analogue descriptions mention small businesses; several explicitly target enterprise or medium-to-enterprise scaled businesses, and some are custom automation service providers rather than SaaS products, limiting comparability to the target segment and business model.",
+        "No historical failure evidence was supplied, so no failure mechanism can be evaluated.",
+        "Semantic similarity scores are retrieval relevance only and were not treated as evidence strength.",
+        "The evidence neither confirms nor refutes the assumption; it is context only, consistent with the reviewed assessment of insufficient evidence."
+      ],
+      "evidence_gaps": [
+        "No evidence describes the degree of repetitiveness or standardization of small business operational workflows.",
+        "No evidence provides measured time or cost savings from automation for any business, small or otherwise.",
+        "No customer outcome, adoption, or ROI data is provided for any analogue company.",
+        "No historical failure evidence was supplied, so no failure mechanisms can be evaluated.",
+        "The only quantitative measures provided for the analogues are semantic similarity scores, which reflect topical relatedness; no outcome, adoption, or validation data accompanies them."
+      ],
+      "grounding_valid": true
+    },
+    {
+      "assumption_id": "A3",
+      "assumption": "AI can perform these operational workflows reliably enough that customers trust it with real business tasks without extensive human review or correction.",
+      "assessment": "insufficient_evidence",
+      "assessment_summary": "The provided evidence does not directly test whether AI can perform operational workflows reliably enough for customers to trust it without extensive human review. The company analogues only show that multiple companies describe building AI workflow-automation products; they contain no accuracy, reliability, customer-trust, or outcome data. The historical failures occurred in different domains (autonomous vehicles, smart home hardware, automotive accessories, social apps), and their stated failure reasons do not address AI workflow accuracy or trust. The only indirect challenge signal is Argo AI: Ford had anticipated bringing autonomous vehicle technology broadly to market by 2021 but made a strategic decision to shift resources toward advanced driver assistance systems, a decision that appears to have been fueled by Argo's inability to attract new investors; this cannot be transferred to business operational workflows.",
+      "evidence_strength_score": 1.5,
+      "evidence_direction": "neutral",
+      "score_breakdown": {
+        "comparability": 0.3,
+        "coverage": 0.2,
+        "decision_specificity": 0.0,
+        "directness": 0.3,
+        "observed_evidence": 0.2,
+        "source_quality": 0.5
+      },
+      "user_evidence_found": false,
+      "score_reasoning": [
+        "The decision text contains only a plan ('Launch an AI-powered SaaS platform...') with no pilot, customers, transactions, measurements, or operational data from the user's own business.",
+        "Company analogues (COMPANY_2, COMPANY_3, COMPANY_4) demonstrate only that AI workflow-automation products for SMBs exist as a category; they contain no accuracy, reliability, error-rate, customer-trust, or human-review-burden data, so they do not test the assumption's mechanism.",
+        "Historical failures are domain-mismatched: Argo AI concerns autonomous vehicles and a backer's strategic pivot driven by inability to attract investors; Lighthouse AI and Pearl Automation cite commercial outcomes, not AI reliability; IRL concerns metric integrity (bot users). None documents a mechanism of AI workflow inaccuracy or erosion of customer trust in AI execution.",
+        "Argo AI offers at most a faint, indirect signal that autonomous-execution timelines and reliability were overestimated in a safety-critical physical domain, which cannot be transferred to business operational workflows.",
+        "No retrieved evidence measures whether customers adopt AI workflow automation with or without extensive human review, so the evidence neither meaningfully supports nor contradicts the assumption."
+      ],
+      "evidence_gaps": [
+        "No evidence provides accuracy rates, error rates, edge-case behavior, or reliability data for AI performing operational business workflows.",
+        "No evidence addresses customer trust levels, human-review requirements, or correction burden for AI workflow automation products.",
+        "The company analogues include no outcome data (success, failure, traction, retention, or customer feedback); semantic similarity scores indicate retrieval relevance only and cannot be treated as evidence of viability, reliability, or likelihood of success.",
+        "The historical failures occurred in different domains (autonomous vehicles, smart home hardware, automotive accessories, social networking), and their stated failure reasons do not test AI workflow reliability or trust; they cannot be directly applied to the assumption.",
+        "IRL's failure mechanism (95% of reported users being automated or bots) concerns metric integrity, not AI execution reliability, and is not relevant to this assumption.",
+        "No evidence exists on whether customers adopt AI workflow automation with or without extensive human review in practice."
+      ],
+      "grounding_valid": true
+    },
+    {
+      "assumption_id": "A4",
+      "assumption": "Small business owners and staff, who typically lack technical expertise, will successfully onboard, integrate, and sustain usage of the platform despite implementation friction.",
+      "assessment": "insufficient_evidence",
+      "assessment_summary": "The provided evidence does not test whether non-technical small business owners and staff can successfully onboard, integrate, and sustain usage of the platform. The company analogues provide only descriptive profiles and positioning; some target small/medium businesses with ease-of-use or no-programming-skill claims, and none include outcome data on onboarding, activation, or retention. The historical failures cite causes unrelated to implementation friction (IRL's reported users being largely automated or bots, Fast discontinuing its products and brand, Automatic citing COVID-19 impact on demand) and none mention onboarding or implementation friction, so the assumption is neither supported nor challenged by this evidence set.",
+      "evidence_strength_score": 1.3,
+      "evidence_direction": "neutral",
+      "score_breakdown": {
+        "directness": 0.2,
+        "decision_specificity": 0.0,
+        "observed_evidence": 0.1,
+        "comparability": 0.4,
+        "coverage": 0.2,
+        "source_quality": 0.4
+      },
+      "user_evidence_found": false,
+      "score_reasoning": [
+        "DIRECTNESS (0.2/2.0): No supplied evidence tests whether non-technical small business users can onboard, integrate, or sustain usage. The closest items are COMPANY_1 and COMPANY_4 positioning claims ('without Programming Skill', 'simple, easy-to-use interface'), but these are marketing descriptions, not outcome data, and do not test the assumption's mechanism.",
+        "DECISION SPECIFICITY (0.0/2.0): There is zero evidence from the user's own decision, product, customers, pilot, or operations. All items are external company profiles or third-party failure reports; per instructions, company analogues receive low decision-specificity.",
+        "OBSERVED EVIDENCE (0.1/2.0): The only observed facts are that certain companies exist with certain descriptions and that three companies failed for stated reasons (bot-inflated users at IRL, product discontinuation at Fast, COVID-19 demand collapse at Automatic). None of these observations measure onboarding, activation, integration, or retention behaviour relevant to this assumption.",
+        "COMPARABILITY (0.4/1.5): Company analogues share the target segment (small businesses) and business model (SaaS), giving partial comparability, but they supply no adoption or usage data. The historical failures operate in different markets (social app, one-click checkout, connected car) and document unrelated mechanisms, so they are poorly comparable to the implementation-friction mechanism.",
+        "COVERAGE (0.2/1.5): The assumption has multiple components — onboarding, integration, sustained usage, non-technical users, implementation friction. The evidence marginally touches only the existence of the target segment and usability positioning; it addresses none of the behavioural components.",
+        "SOURCE QUALITY (0.4/1.0): Company profiles are traceable database entries and failure reasons include quoted statements, so sources are identifiable, but they are thin, descriptive, and contain no verifiable performance or adoption metrics.",
+        "DIRECTION (neutral): The failure cases document mechanisms (fake users, discontinuation, pandemic demand shock) that do not map onto onboarding or implementation friction, so they neither corroborate nor challenge the assumption. The analogue positioning claims are too weak to count as support. Consistent with the reviewed evaluation of 'insufficient_evidence', the evidence set is neutral on this assumption."
+      ],
+      "evidence_gaps": [
+        "No evidence on onboarding, activation, or integration outcomes for non-technical small business users of any platform.",
+        "No evidence on sustained usage, retention, or churn among small business customers.",
+        "Company analogues provide only descriptive profiles (short descriptions, categories, locations, employee ranges, founding years) with no performance or adoption data; semantic scores indicate retrieval similarity only and must not be read as probabilities of success or measures of adoption.",
+        "The available failure mechanisms (automated/bot users at IRL, product discontinuation at Fast, COVID-19 impact on demand at Automatic) do not address implementation friction and cannot be mapped onto this assumption.",
+        "No evidence on whether the ease-of-use or no-programming-skill claims of peer companies translated into successful adoption by non-technical users."
+      ],
+      "grounding_valid": true
+    },
+    {
+      "assumption_id": "A5",
+      "assumption": "The existing landscape of workflow automation tools, vertical SaaS, and AI copilots leaves enough unmet demand or differentiation for a new entrant to acquire customers profitably.",
+      "assessment": "insufficient_evidence",
+      "assessment_summary": "The provided evidence shows only that five small AI-powered SaaS companies, in recruiting and hiring automation, were founded between 2019 and 2024, with employee ranges of 1-10 and 11-50. It contains no data on market saturation, unmet demand, differentiation opportunities, customer acquisition costs, or profitability for new entrants. The analogues' outcomes (success, failure, growth, or revenue) are not stated, and the historical_failures list is empty. The assumption about unmet demand or differentiation for a new entrant therefore cannot be confirmed or challenged from this evidence.",
+      "evidence_strength_score": 1.8,
+      "evidence_direction": "neutral",
+      "score_breakdown": {
+        "directness": 0.3,
+        "decision_specificity": 0.0,
+        "observed_evidence": 0.4,
+        "comparability": 0.5,
+        "coverage": 0.2,
+        "source_quality": 0.4
+      },
+      "user_evidence_found": false,
+      "score_reasoning": [
+        "DIRECTNESS (0.3/2.0): The assumption concerns unmet demand, differentiation, and profitable customer acquisition for a new entrant in SMB workflow automation. The evidence only establishes that five AI SaaS companies exist in recruiting/hiring automation. Company existence does not test demand, differentiation, or unit economics, so the evidence barely touches the assumption's mechanism.",
+        "DECISION SPECIFICITY (0.0/2.0): The decision text contains only plans and intentions ('Launch an AI-powered SaaS platform...') with no pilot, customer, transaction, or operational data from the user. All supplied evidence consists of third-party company analogues, which per instructions receive low decision-specificity.",
+        "OBSERVED EVIDENCE (0.4/2.0): The only observed facts are directory-style attributes of five third-party companies (founding year 2019-2024, employee ranges, categories). No outcomes, revenues, CAC, churn, survival, or failure data are observed. The historical_failures list is empty, so no observed failure mechanisms exist.",
+        "COMPARABILITY (0.5/1.5): The analogues share the AI-powered B2B SaaS model, but they operate in recruiting/hiring automation rather than general SMB operational workflow automation. Target buyers, competitive landscape, and go-to-market context differ materially from the user's stated target of small businesses.",
+        "COVERAGE (0.2/1.5): The assumption has multiple components: competitive landscape, unmet demand, differentiation, and profitable acquisition. The evidence marginally addresses only the existence of an AI SaaS landscape; it is silent on saturation, unmet demand, differentiation opportunities, and new-entrant economics.",
+        "SOURCE QUALITY (0.4/1.0): Structured, plausible company-database entries with consistent fields, but no cited sources, no outcome data, and semantic_score values are undefined retrieval relevance metrics that cannot be treated as evidence strength.",
+        "DIRECTION (neutral): The existence of five recent entrants in an adjacent AI SaaS vertical can be read either as evidence the category admits new entrants (supportive) or as crowding (contradictory). With no outcome, demand, or profitability data, the evidence neither supports nor contradicts the assumption; it is simply insufficient, consistent with the reviewed assessment of insufficient_evidence."
+      ],
+      "evidence_gaps": [
+        "No evidence on the competitive landscape of workflow automation tools, vertical SaaS, or AI copilots specifically; the analogues in the evidence are recruiting/hiring AI SaaS companies.",
+        "No data on market saturation, incumbent strength, or competitive intensity relevant to the assumption.",
+        "No data on unmet demand or differentiation opportunities for a new entrant.",
+        "No data on customer acquisition costs, unit economics, or profitability for any analogue or for new entrants generally.",
+        "No outcome data (success, failure, growth, revenue, or survival) for any of the five analogues, so their existence cannot be read as evidence of viability or of crowding.",
+        "The historical_failures list is empty, so no failure mechanisms can be evaluated or cited.",
+        "The semantic_score values provided for the analogues are not defined in the evidence and cannot be treated as probabilities of success or failure."
+      ],
+      "grounding_valid": true
+    }
+  ],
+  "risk_evidence": {
+    "historical_failure_mechanisms": [
+      {
+        "assumption_id": "A1",
+        "assumption": "Small businesses have sufficient budget and willingness to pay for a subscription workflow automation tool, rather than relying on manual processes, spreadsheets, or free alternatives.",
+        "mechanism": "Lack of adoption driven by unwillingness to switch from incumbent alternatives, as explicitly stated for the mobile payments failure (a different product category).",
+        "evidence_refs": [
+          "FAILURE_4"
+        ]
+      },
+      {
+        "assumption_id": "A3",
+        "assumption": "AI can perform these operational workflows reliably enough that customers trust it with real business tasks without extensive human review or correction.",
+        "mechanism": "Ford made a strategic decision to shift resources from autonomous vehicle technology to advanced driver assistance systems, despite having anticipated bringing autonomous vehicle technology broadly to market by 2021",
+        "evidence_refs": [
+          "FAILURE_1"
+        ]
+      },
+      {
+        "assumption_id": "A3",
+        "assumption": "AI can perform these operational workflows reliably enough that customers trust it with real business tasks without extensive human review or correction.",
+        "mechanism": "Inability to attract new investors, which appears to have fueled the backer's decision to shift resources",
+        "evidence_refs": [
+          "FAILURE_1"
+        ]
+      },
+      {
+        "assumption_id": "A3",
+        "assumption": "AI can perform these operational workflows reliably enough that customers trust it with real business tasks without extensive human review or correction.",
+        "mechanism": "Failure to achieve the commercial success sought for an AI-enabled smarthome product, with no technical reliability cause stated",
+        "evidence_refs": [
+          "FAILURE_2"
+        ]
+      },
+      {
+        "assumption_id": "A3",
+        "assumption": "AI can perform these operational workflows reliably enough that customers trust it with real business tasks without extensive human review or correction.",
+        "mechanism": "Disappointing early product sales exacerbated by a high burn rate",
+        "evidence_refs": [
+          "FAILURE_3"
+        ]
+      }
+    ],
+    "company_analogue_context": [
+      {
+        "assumption_id": "A1",
+        "rank": 1,
+        "name": "Sotira",
+        "semantic_score": 0.653103,
+        "short_description": "B2B SaaS startup that enables surplus inventory suppliers to offload and monetize surplus inventory",
+        "categories": "B2B, E-Commerce, FinTech, Logistics, Price Comparison, Retail, SaaS, Software, Supply Chain Management",
+        "employee_range": "1-10 employees",
+        "founded_year": 2022
+      },
+      {
+        "assumption_id": "A1",
+        "rank": 2,
+        "name": "Upmarket",
+        "semantic_score": 0.651791,
+        "short_description": "We help b2b/saas startups double revenue, with weekly feedback.",
+        "categories": "Information Technology, Messaging, Small and Medium Businesses",
+        "employee_range": "1-10 employees",
+        "founded_year": 2019
+      },
+      {
+        "assumption_id": "A1",
+        "rank": 3,
+        "name": "Coefficy",
+        "semantic_score": 0.643685,
+        "short_description": "Coefficy provides SaaS solution for B2B customer.",
+        "categories": "B2B, Information Technology, SaaS",
+        "employee_range": "11-50 employees",
+        "founded_year": 2015
+      },
+      {
+        "assumption_id": "A1",
+        "rank": 4,
+        "name": "SABX",
+        "semantic_score": 0.633487,
+        "short_description": "SABX is virtualizing the B2B selling and buying processes for small and mid-sized CPG companies.",
+        "categories": "B2B, E-Commerce, Software",
+        "employee_range": "11-50 employees",
+        "founded_year": 2018
+      },
+      {
+        "assumption_id": "A1",
+        "rank": 5,
+        "name": "Payaca",
+        "semantic_score": 0.631872,
+        "short_description": "B2B SaaS for customer-focused service businesses.",
+        "categories": "B2B, Financial Services, FinTech, Mobile Apps, SaaS, Software",
+        "employee_range": "11-50 employees",
+        "founded_year": 2018
+      },
+      {
+        "assumption_id": "A2",
+        "rank": 1,
+        "name": "PermuteHQ",
+        "semantic_score": 0.674691,
+        "short_description": "Low Code Platform to build enterprise apps to digitize processes",
+        "categories": "CRM, Enterprise Resource Planning (ERP), Software",
+        "employee_range": "11-50 employees",
+        "founded_year": 2021
+      },
+      {
+        "assumption_id": "A2",
+        "rank": 2,
+        "name": "Gentle reminder",
+        "semantic_score": 0.673393,
+        "short_description": "VBA, apps script, Python and more low code tools based automation providing company to support medium to enterprise scaled businesses.",
+        "categories": "Information Technology",
+        "employee_range": "1-10 employees",
+        "founded_year": 2019
+      },
+      {
+        "assumption_id": "A2",
+        "rank": 3,
+        "name": "Pentaknot",
+        "semantic_score": 0.671806,
+        "short_description": "We Develop Process Automation Software for Smart Business",
+        "categories": "Software",
+        "employee_range": "1-10 employees",
+        "founded_year": 2019
+      },
+      {
+        "assumption_id": "A2",
+        "rank": 4,
+        "name": "CARET",
+        "semantic_score": 0.667464,
+        "short_description": "CARET develops software and mobile applications development services for industrial automation.",
+        "categories": "Consulting, Mobile Apps, Quality Assurance, Software",
+        "employee_range": "1-10 employees",
+        "founded_year": 2018
+      },
+      {
+        "assumption_id": "A2",
+        "rank": 5,
+        "name": "Small Software",
+        "semantic_score": 0.666178,
+        "short_description": "Small Software provides cloud solutions for businesses' personnel, operations, and sales management services.",
+        "categories": "Information Technology, Mobile Apps, Software",
+        "employee_range": "1-10 employees",
+        "founded_year": 2020
+      },
+      {
+        "assumption_id": "A3",
+        "rank": 1,
+        "name": "Autonomi AI",
+        "semantic_score": 0.700875,
+        "short_description": "Autonomi AI develops cloud infrastructure and developer tools for the generative AI market.",
+        "categories": "Artificial Intelligence (AI), Enterprise Software, Machine Learning, Robotics, Software",
+        "employee_range": "1-10 employees",
+        "founded_year": 2022
+      },
+      {
+        "assumption_id": "A3",
+        "rank": 2,
+        "name": "Aifficient.Tech",
+        "semantic_score": 0.695193,
+        "short_description": "AIfficient.Tech empowers small and medium business with tailored AI Autonomous Agent solutions for enhanced productivity and efficiency.",
+        "categories": "Artificial Intelligence (AI), Marketing Automation, Online Forums, Software",
+        "employee_range": "1-10 employees",
+        "founded_year": 2023
+      },
+      {
+        "assumption_id": "A3",
+        "rank": 3,
+        "name": "Aiver.ai",
+        "semantic_score": 0.690588,
+        "short_description": "Unlock The Power Of Automation. Automate workflows with AIVER using the power of AI and ML to make the workflows smarter over time.",
+        "categories": "Accounting, Artificial Intelligence (AI), Business Intelligence, Compliance, Data Visualization, Fraud Detection, Information Technology, Machine Learning, Predictive Analytics, Product Management",
+        "employee_range": "11-50 employees",
+        "founded_year": 2020
+      },
+      {
+        "assumption_id": "A3",
+        "rank": 4,
+        "name": "Supervue Ai",
+        "semantic_score": 0.686271,
+        "short_description": "Supervue Ai develops software and online tools using artificial intelligence to manage business processes.",
+        "categories": "Artificial Intelligence (AI), Facial Recognition, Information Technology, Machine Learning, Software",
+        "employee_range": "11-50 employees",
+        "founded_year": 2020
+      },
+      {
+        "assumption_id": "A3",
+        "rank": 5,
+        "name": "Evidente",
+        "semantic_score": 0.68519,
+        "short_description": "Evidente AI revolutionizes retail decision-making processes, with friendly data that is easy to understand.",
+        "categories": "Artificial Intelligence (AI), Information Technology, Retail Technology",
+        "employee_range": "1-10 employees",
+        "founded_year": 2023
+      },
+      {
+        "assumption_id": "A4",
+        "rank": 1,
+        "name": "OnMesure",
+        "semantic_score": 0.660781,
+        "short_description": "SaaS Solution for small and Medium Firm which want Scalable & Fitly Business App that their customize himself without Programming Skill",
+        "categories": "Information Technology",
+        "employee_range": "1-10 employees",
+        "founded_year": 2015
+      },
+      {
+        "assumption_id": "A4",
+        "rank": 2,
+        "name": "CORRIDAR",
+        "semantic_score": 0.653255,
+        "short_description": "SaaS Immersive Marketplace for Desktop and Mobile",
+        "categories": "Apps, E-Commerce, Software",
+        "employee_range": "1-10 employees",
+        "founded_year": 2020
+      },
+      {
+        "assumption_id": "A4",
+        "rank": 3,
+        "name": "Haystack.One",
+        "semantic_score": 0.646505,
+        "short_description": "SaaS platform that leverages behavioral sciences to drive mass-personalized engagements for more efficient sales.",
+        "categories": "Marketing, Marketing Automation, SaaS, Software",
+        "employee_range": "1-10 employees",
+        "founded_year": 2016
+      },
+      {
+        "assumption_id": "A4",
+        "rank": 4,
+        "name": "Haven",
+        "semantic_score": 0.642227,
+        "short_description": "Haven offers small businesses an all-in-one SaaS platform with a simple, easy-to-use interface.",
+        "categories": "Enterprise Software, SaaS, Small and Medium Businesses, Software",
+        "employee_range": "1-10 employees",
+        "founded_year": 2021
+      },
+      {
+        "assumption_id": "A4",
+        "rank": 5,
+        "name": "OppNav",
+        "semantic_score": 0.641667,
+        "short_description": "SaaS company focused on providing streamlined end user experience to help small businesses efficiently navigate federal market opportunities",
+        "categories": "Information Technology, Software",
+        "employee_range": "1-10 employees",
+        "founded_year": 2023
+      },
+      {
+        "assumption_id": "A5",
+        "rank": 1,
+        "name": "Businessflow AI",
+        "semantic_score": 0.675035,
+        "short_description": "AI powered SaaS for the next generation recruitment.",
+        "categories": "Artificial Intelligence (AI), Business Information Systems, Business Process Automation (BPA), Enterprise Software, Human Resources, Recruiting, Software",
+        "employee_range": "1-10 employees",
+        "founded_year": 2024
+      },
+      {
+        "assumption_id": "A5",
+        "rank": 2,
+        "name": "Employa",
+        "semantic_score": 0.651993,
+        "short_description": "Employa is a SaaS company focused on sourcing and screening best matched candidates for your open positions",
+        "categories": "Artificial Intelligence (AI), Recruiting, SaaS, Software",
+        "employee_range": "11-50 employees",
+        "founded_year": 2019
+      },
+      {
+        "assumption_id": "A5",
+        "rank": 3,
+        "name": "Velents",
+        "semantic_score": 0.64758,
+        "short_description": "AI-powered SaaS platform that automates the hiring process to mitigate the bias and cut hiring cost by 80%",
+        "categories": "SaaS, Software",
+        "employee_range": "11-50 employees",
+        "founded_year": 2020
+      },
+      {
+        "assumption_id": "A5",
+        "rank": 4,
+        "name": "Hireflow",
+        "semantic_score": 0.64546,
+        "short_description": "AI to make better hires, faster. Hireflow provides everything you need to build a pipeline of interested candidates.",
+        "categories": "Human Resources, Machine Learning, Recruiting, Software",
+        "employee_range": "11-50 employees",
+        "founded_year": 2022
+      },
+      {
+        "assumption_id": "A5",
+        "rank": 5,
+        "name": "HireTalent",
+        "semantic_score": 0.643389,
+        "short_description": "AI-powered hiring automation platform to manage all stages of your recruitment process, from workforce planning to interviews to onboarding.",
+        "categories": "Enterprise Software, Human Resources, SaaS, Software",
+        "employee_range": "1-10 employees",
+        "founded_year": 2022
+      }
+    ],
+    "evidence_gaps": [
+      {
+        "assumption_id": "A1",
+        "assumption": "Small businesses have sufficient budget and willingness to pay for a subscription workflow automation tool, rather than relying on manual processes, spreadsheets, or free alternatives.",
+        "gap": "No evidence on small businesses' budgets, pricing sensitivity, or willingness to pay for subscription workflow automation tools specifically."
+      },
+      {
+        "assumption_id": "A1",
+        "assumption": "Small businesses have sufficient budget and willingness to pay for a subscription workflow automation tool, rather than relying on manual processes, spreadsheets, or free alternatives.",
+        "gap": "No evidence comparing paid subscription tools against manual processes, spreadsheets, or free alternatives for small businesses."
+      },
+      {
+        "assumption_id": "A1",
+        "assumption": "Small businesses have sufficient budget and willingness to pay for a subscription workflow automation tool, rather than relying on manual processes, spreadsheets, or free alternatives.",
+        "gap": "No churn, retention, conversion, or revenue data for any of the listed company analogues."
+      },
+      {
+        "assumption_id": "A1",
+        "assumption": "Small businesses have sufficient budget and willingness to pay for a subscription workflow automation tool, rather than relying on manual processes, spreadsheets, or free alternatives.",
+        "gap": "No outcome data (success or failure) is provided for the company analogues, so their presence in the evidence set cannot be read as validation of the assumption."
+      },
+      {
+        "assumption_id": "A1",
+        "assumption": "Small businesses have sufficient budget and willingness to pay for a subscription workflow automation tool, rather than relying on manual processes, spreadsheets, or free alternatives.",
+        "gap": "The historical failures concern other categories (one-click checkout, daily deals, group buying, mobile payments, e-commerce) and do not explicitly address small-business willingness to pay for workflow automation subscriptions; failure mechanisms from those cases cannot be transferred to this assumption beyond the adoption/switching mechanism noted."
+      },
+      {
+        "assumption_id": "A2",
+        "assumption": "Small business operational workflows are repetitive and standardized enough that automating them delivers meaningful, measurable time or cost savings.",
+        "gap": "No evidence describes the degree of repetitiveness or standardization of small business operational workflows."
+      },
+      {
+        "assumption_id": "A2",
+        "assumption": "Small business operational workflows are repetitive and standardized enough that automating them delivers meaningful, measurable time or cost savings.",
+        "gap": "No evidence provides measured time or cost savings from automation for any business, small or otherwise."
+      },
+      {
+        "assumption_id": "A2",
+        "assumption": "Small business operational workflows are repetitive and standardized enough that automating them delivers meaningful, measurable time or cost savings.",
+        "gap": "No customer outcome, adoption, or ROI data is provided for any analogue company."
+      },
+      {
+        "assumption_id": "A2",
+        "assumption": "Small business operational workflows are repetitive and standardized enough that automating them delivers meaningful, measurable time or cost savings.",
+        "gap": "No historical failure evidence was supplied, so no failure mechanisms can be evaluated."
+      },
+      {
+        "assumption_id": "A2",
+        "assumption": "Small business operational workflows are repetitive and standardized enough that automating them delivers meaningful, measurable time or cost savings.",
+        "gap": "The only quantitative measures provided for the analogues are semantic similarity scores, which reflect topical relatedness; no outcome, adoption, or validation data accompanies them."
+      },
+      {
+        "assumption_id": "A3",
+        "assumption": "AI can perform these operational workflows reliably enough that customers trust it with real business tasks without extensive human review or correction.",
+        "gap": "No evidence provides accuracy rates, error rates, edge-case behavior, or reliability data for AI performing operational business workflows."
+      },
+      {
+        "assumption_id": "A3",
+        "assumption": "AI can perform these operational workflows reliably enough that customers trust it with real business tasks without extensive human review or correction.",
+        "gap": "No evidence addresses customer trust levels, human-review requirements, or correction burden for AI workflow automation products."
+      },
+      {
+        "assumption_id": "A3",
+        "assumption": "AI can perform these operational workflows reliably enough that customers trust it with real business tasks without extensive human review or correction.",
+        "gap": "The company analogues include no outcome data (success, failure, traction, retention, or customer feedback); semantic similarity scores indicate retrieval relevance only and cannot be treated as evidence of viability, reliability, or likelihood of success."
+      },
+      {
+        "assumption_id": "A3",
+        "assumption": "AI can perform these operational workflows reliably enough that customers trust it with real business tasks without extensive human review or correction.",
+        "gap": "The historical failures occurred in different domains (autonomous vehicles, smart home hardware, automotive accessories, social networking), and their stated failure reasons do not test AI workflow reliability or trust; they cannot be directly applied to the assumption."
+      },
+      {
+        "assumption_id": "A3",
+        "assumption": "AI can perform these operational workflows reliably enough that customers trust it with real business tasks without extensive human review or correction.",
+        "gap": "IRL's failure mechanism (95% of reported users being automated or bots) concerns metric integrity, not AI execution reliability, and is not relevant to this assumption."
+      },
+      {
+        "assumption_id": "A3",
+        "assumption": "AI can perform these operational workflows reliably enough that customers trust it with real business tasks without extensive human review or correction.",
+        "gap": "No evidence exists on whether customers adopt AI workflow automation with or without extensive human review in practice."
+      },
+      {
+        "assumption_id": "A4",
+        "assumption": "Small business owners and staff, who typically lack technical expertise, will successfully onboard, integrate, and sustain usage of the platform despite implementation friction.",
+        "gap": "No evidence on onboarding, activation, or integration outcomes for non-technical small business users of any platform."
+      },
+      {
+        "assumption_id": "A4",
+        "assumption": "Small business owners and staff, who typically lack technical expertise, will successfully onboard, integrate, and sustain usage of the platform despite implementation friction.",
+        "gap": "No evidence on sustained usage, retention, or churn among small business customers."
+      },
+      {
+        "assumption_id": "A4",
+        "assumption": "Small business owners and staff, who typically lack technical expertise, will successfully onboard, integrate, and sustain usage of the platform despite implementation friction.",
+        "gap": "Company analogues provide only descriptive profiles (short descriptions, categories, locations, employee ranges, founding years) with no performance or adoption data; semantic scores indicate retrieval similarity only and must not be read as probabilities of success or measures of adoption."
+      },
+      {
+        "assumption_id": "A4",
+        "assumption": "Small business owners and staff, who typically lack technical expertise, will successfully onboard, integrate, and sustain usage of the platform despite implementation friction.",
+        "gap": "The available failure mechanisms (automated/bot users at IRL, product discontinuation at Fast, COVID-19 impact on demand at Automatic) do not address implementation friction and cannot be mapped onto this assumption."
+      },
+      {
+        "assumption_id": "A4",
+        "assumption": "Small business owners and staff, who typically lack technical expertise, will successfully onboard, integrate, and sustain usage of the platform despite implementation friction.",
+        "gap": "No evidence on whether the ease-of-use or no-programming-skill claims of peer companies translated into successful adoption by non-technical users."
+      },
+      {
+        "assumption_id": "A5",
+        "assumption": "The existing landscape of workflow automation tools, vertical SaaS, and AI copilots leaves enough unmet demand or differentiation for a new entrant to acquire customers profitably.",
+        "gap": "No evidence on the competitive landscape of workflow automation tools, vertical SaaS, or AI copilots specifically; the analogues in the evidence are recruiting/hiring AI SaaS companies."
+      },
+      {
+        "assumption_id": "A5",
+        "assumption": "The existing landscape of workflow automation tools, vertical SaaS, and AI copilots leaves enough unmet demand or differentiation for a new entrant to acquire customers profitably.",
+        "gap": "No data on market saturation, incumbent strength, or competitive intensity relevant to the assumption."
+      },
+      {
+        "assumption_id": "A5",
+        "assumption": "The existing landscape of workflow automation tools, vertical SaaS, and AI copilots leaves enough unmet demand or differentiation for a new entrant to acquire customers profitably.",
+        "gap": "No data on unmet demand or differentiation opportunities for a new entrant."
+      },
+      {
+        "assumption_id": "A5",
+        "assumption": "The existing landscape of workflow automation tools, vertical SaaS, and AI copilots leaves enough unmet demand or differentiation for a new entrant to acquire customers profitably.",
+        "gap": "No data on customer acquisition costs, unit economics, or profitability for any analogue or for new entrants generally."
+      },
+      {
+        "assumption_id": "A5",
+        "assumption": "The existing landscape of workflow automation tools, vertical SaaS, and AI copilots leaves enough unmet demand or differentiation for a new entrant to acquire customers profitably.",
+        "gap": "No outcome data (success, failure, growth, revenue, or survival) for any of the five analogues, so their existence cannot be read as evidence of viability or of crowding."
+      },
+      {
+        "assumption_id": "A5",
+        "assumption": "The existing landscape of workflow automation tools, vertical SaaS, and AI copilots leaves enough unmet demand or differentiation for a new entrant to acquire customers profitably.",
+        "gap": "The historical_failures list is empty, so no failure mechanisms can be evaluated or cited."
+      },
+      {
+        "assumption_id": "A5",
+        "assumption": "The existing landscape of workflow automation tools, vertical SaaS, and AI copilots leaves enough unmet demand or differentiation for a new entrant to acquire customers profitably.",
+        "gap": "The semantic_score values provided for the analogues are not defined in the evidence and cannot be treated as probabilities of success or failure."
+      }
+    ]
+  },
+  "financial_evidence": {
+    "stress_test": {
+      "monthly_orders": 2000.0,
+      "revenue_per_order": 100000.0,
+      "variable_cost_per_order": 45000.0,
+      "promo_subsidy_per_order": 10000.0,
+      "delivery_cost_per_order": 15000.0,
+      "contribution_per_order": 30000.0,
+      "contribution_margin": 0.3,
+      "monthly_revenue": 200000000.0,
+      "monthly_variable_cost": 90000000.0,
+      "monthly_promo_subsidy": 20000000.0,
+      "monthly_delivery_cost": 30000000.0,
+      "monthly_contribution": 60000000.0,
+      "monthly_fixed_cost": 80000000.0,
+      "monthly_driver_cost": 10000000.0,
+      "monthly_operating_profit": -30000000.0,
+      "monthly_burn": 30000000.0,
+      "runway_months": 16.666666666666668,
+      "break_even_orders": 3000.0
+    },
+    "idx_benchmark": [
+      {
+        "startup_metric": "contribution_margin",
+        "benchmark_metric": "gross_margin",
+        "comparison_type": "directional_only",
+        "startup_value": 0.3,
+        "idx_p25": 0.1257684664467831,
+        "idx_median": 0.2511718666577408,
+        "idx_p75": 0.4374083234249167,
+        "position": "between_median_and_p75",
+        "note": "Contribution margin is not identical to accounting gross margin. IDX comparison is directional only."
+      }
+    ],
+    "flags": [
+      {
+        "code": "NEGATIVE_OPERATING_PROFIT",
+        "severity": "high",
+        "message": "Monthly operating profit is negative under the provided assumptions."
+      }
+    ]
+  },
+  "validation_experiments": [
+    {
+      "assumption_id": "A1",
+      "type": "recommended_experiment",
+      "experiment": "Workflow automation pilot",
+      "method": "Run the proposed automated workflow on a representative set of real target tasks or workflows.",
+      "measure": "Track task completion quality, errors, manual corrections, failures, human oversight, and customization required.",
+      "note": "Define acceptable performance criteria before the pilot."
+    },
+    {
+      "assumption_id": "A2",
+      "type": "recommended_experiment",
+      "experiment": "Direct assumption validation",
+      "method": "Design the smallest real-world test that directly exposes this assumption to representative target users or operating conditions.",
+      "measure": "Collect observable evidence that directly supports or challenges the assumption and record why the observed result occurred.",
+      "note": "Define the success criterion before running the test."
+    },
+    {
+      "assumption_id": "A3",
+      "type": "recommended_experiment",
+      "experiment": "Direct assumption validation",
+      "method": "Design the smallest real-world test that directly exposes this assumption to representative target users or operating conditions.",
+      "measure": "Collect observable evidence that directly supports or challenges the assumption and record why the observed result occurred.",
+      "note": "Define the success criterion before running the test."
+    },
+    {
+      "assumption_id": "A4",
+      "type": "recommended_experiment",
+      "experiment": "Customer integration-readiness audit",
+      "method": "Interview or onboard a small set of representative target users and inspect the systems, data formats, workflows, and integrations required.",
+      "measure": "Record missing data, manual setup, integration blockers, and onboarding effort observed.",
+      "note": "Do not infer digital readiness from company size or category alone."
+    },
+    {
+      "assumption_id": "A5",
+      "type": "recommended_experiment",
+      "experiment": "Small-scale acquisition economics test",
+      "method": "Run a limited customer acquisition test using the intended channel and track spend through qualified lead, conversion, purchase, and initial retention.",
+      "measure": "Calculate observed acquisition cost from actual spend and compare it with revenue and retention data collected from the same test.",
+      "note": "Do not extrapolate lifetime value until sufficient retention evidence exists."
+    }
+  ],
+  "source_metadata": {
+    "company_candidate_universe": 115798,
+    "historical_failure_cases": 143,
+    "idx_benchmark_ratios": 4
+  }
+}
